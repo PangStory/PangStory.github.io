@@ -101,10 +101,10 @@ contact: >
 # Work Section
 
 projects:
-- {name: 'Story One', img: '0.jpg', file: 'projects/story-0.html'}
-- {name: 'Story Two', img: '1.jpg', file: 'projects/story-1.html'}
-- {name: 'Story Three', img: '2.jpg', file: 'projects/story-2.html'}
-- {name: 'Story Four', img: '3.jpg', file: 'projects/story-3.html'}
+- {name: 'Story One', thumb: '0.jpg', file: 'projects/story-0.html'}
+- {name: 'Story Two', thumb: '1.jpg', file: 'projects/story-1.html'}
+- {name: 'Story Three', thumb: '2.jpg', file: 'projects/story-2.html'}
+- {name: 'Story Four', thumb: '3.jpg', file: 'projects/story-3.html'}
 
 #-------------------------------
 # Contact Section
