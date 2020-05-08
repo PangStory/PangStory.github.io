@@ -13,7 +13,7 @@ menu:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Story'
+  description: ''
   rel-author: ''
   rel-publisher: ''
 
@@ -26,15 +26,15 @@ seo:
 # NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-analytics-ua: 'UA-112060364-3'
+google-analytics-ua: ''
 
 #-------------------------------
 # Disqus Section
 
 # Change to true for Disqus comments
 disqus:
-  comments: false
-  disqus_shortname: 'thathungrymind'
+  comments: true
+  disqus_shortname: 'name'
 
 #-------------------------------
 # About Section
@@ -101,10 +101,10 @@ contact: >
 # Work Section
 
 projects:
-- {name: 'Story One', folder: 'img', file: 'projects/story-0.html'}
-- {name: 'Story Two', folder: 'img', file: 'projects/story-1.html'}
-- {name: 'Story Three', folder: 'img', file: 'projects/story-2.html'}
-- {name: 'Story Four', folder: 'img', file: 'projects/story-3.html'}
+- {name: 'Story One', img: '0.jpg', file: 'projects/story-0.html'}
+- {name: 'Story Two', img: '1.jpg', file: 'projects/story-1.html'}
+- {name: 'Story Three', img: '2.jpg', file: 'projects/story-2.html'}
+- {name: 'Story Four', img: '3.jpg', file: 'projects/story-3.html'}
 
 #-------------------------------
 # Contact Section
