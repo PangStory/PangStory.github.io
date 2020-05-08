@@ -2,10 +2,10 @@
 # General Site Settings
 
 menu:
-- {name: 'Story', url: ''}
-- {name: 'Blog', url: 'pages/blog.html'}
-- {name: 'About', url: 'pages/about.html'}
-- {name: 'Contact', url: 'pages/contact.html'}
+- {name: '故事', url: ''}
+- {name: '文章', url: 'pages/blog.html'}
+- {name: '关于', url: 'pages/about.html'}
+- {name: '联系我们', url: 'pages/contact.html'}
 
 #-------------------------------
 # SEO Section
@@ -40,14 +40,14 @@ disqus:
 # About Section
 
 about: >
-  # Portfolio Jekyll Theme
+  # 关于隐私条款的说明
 
   There is nothing.
 
 contact: >
-  # Contact
+  # 联系我们
 
-  You may contact me [through my email](mailto:1686668039@qq.com) or [tweet at me](https://twitter.com/) if you have any questions or would like to bring up any issues.
+  你可以通过 [邮件](mailto:1686668039@qq.com) 联系我们，如果你有好的想法和意见也可以发给我们。
 
 #-------------------------------
 # Work Section
