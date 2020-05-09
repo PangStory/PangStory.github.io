@@ -1,0 +1,2625 @@
+<body class=" rel bk-blue">
+<nav id="menuBody" class="fixed back pos-top pos-right bk-blue width-300 ov-hidden  trans-med box-top vanish ">
+<ul id="menu_stories" class="bordered p-large txt-right">
+<li class="box-tiny">
+<a class="original" href="/archives/">
+<span class="icon icon-balloon"></span>
+<span class="fancy"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">原创故事</font></font></span>
+</a>
+</li>
+<li class="box-tiny">
+<a class="fairytales" href="/archives/fairy-tales/">
+<span class="icon icon-wand"></span>
+<span class="fancy"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">童话故事</font></font></span>
+</a>
+</li>
+<li class="box-tiny">
+<a class="classic" href="/archives/classic-authors/">
+<span class="icon icon-book2"></span>
+<span class="fancy"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">经典有声读物</font></font></span>
+</a>
+</li>
+<li class="box-tiny">
+<a class="edu" href="/educational-stories/">
+<span class="icon icon-graduation"></span>
+<span class="fancy"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">教育故事</font></font></span>
+</a>
+</li>
+<li class="box-tiny">
+<a class="myths" href="/archives/myths-world-stories/">
+<span class="icon icon-earth"></span>
+<span class="fancy"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">神话与世界故事</font></font></span>
+</a>
+</li>
+<li class="box-tiny">
+<a class="junior" href="/category/small-stories/">
+<span class="icon icon-happy">
+</span>
+<span class="fancy"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">初级故事</font></font></span>
+</a>
+</li>
+<li class="box-tiny">
+<a class="music" href="/archives/poems-music/">
+<span class="icon icon-music"></span>
+<span class="fancy"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">诗与音乐</font></font></span>
+</a>
+</li>
+</ul>
+</nav>
+<div class="back fixed pos-top pos-right">
+<a id="closeMenu" href="#" onclick="activate('contentPush'); activate('menuBody'); activate('closeMenu');  return false;" class="vanish box-tiny bk-yellow rounded  clr-red p-large "><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">X</font></font></a>
+</div>
+<div id="contentPush" class="one-whole bk-green ov-hidden back rel menu-push-to-left trans-med">
+<span id="ezoic-pub-ad-placeholder-123" class="center"></span>
+<div class="one-whole bk-blue ov-hidden box-tiny box-mini-bottom">
+<span id="ezoic-pub-ad-placeholder-124" class="center banner"></span>
+<div id="site-title" class="page ov-hidden rel ">
+<a href="/" class="btn box-tiny bk-white v-center clr-green pos-left fancy  abs rounded pos-top view-t">
+<b class="icon icon-home line-one"></b><b class="p-large line-one"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">家</font></font></b>
+</a>
+<div class="box-mini-top-bottom ov-hidden">
+<a href="/">
+<h1 class="fancy site-title clr-yellow pull-left txt-center-r "><b class="icon-bertie bk-img mgn-top-8px"></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">故事故事</font></font></h1>
+</a>
+</div> <a href="#" onclick="activate('contentPush'); activate('menuBody'); activate('closeMenu'); return false;" class="btn box-tiny bk-yellow v-center clr-green pos-right fancy  abs rounded pos-top hide-p">
+<b class="icon icon-menu line-one"></b><b class="p-large line-one"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">菜单</font></font></b>
+</a>
+</div>
+<span id="ezoic-pub-ad-placeholder-125" class="center banner"></span>
+<div class="one-whole bk-blue box-tiny-top-bottom ov-hidden blk-p ">
+<div class="page bk-yellow ov-hidden rounded">
+<ul class=" nav   page ov-hidden  one-whole nav box-flush-top fancy p-large center">
+<li class="left ov-hidden one-sixth bk-yellow box-tiny brd-green  box-flush-right txt-center"><a href="/archives/" class="fancy "><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">原版的</font></font></a></li>
+<li class="left one-sixth bk-yellow one-whole box-tiny brd-green txt-center box-flush-right"><a href="/archives/fairy-tales/" class="fancy"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">童话故事</font></font></a></li>
+<li class="left  one-sixth  o bk-yellow box-tiny brd-green txt-center box-flush-right"><a href="
+			/archives/classic-authors/" class="fancy"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">经典作者</font></font></a></li>
+<li class="left one-sixth fancy bk-yellow box-tiny brd-green txt-center box-flush-right "><a href="/archives/myths-world-stories/" class="fancy"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">神话与世界</font></font></a></li>
+<li class="left  one-sixth fancy bk-yellow box-tiny brd-green txt-center box-flush-right "><a href="/archives/educational-stories/" class=" fancy"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">教育性</font></font></a></li>
+<li class="left one-sixth fancy bk-yellow box-tiny brd-green  box-right txt-center  box-flush-right"><a href="/archives/poems-music/" class="fancy"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">诗与音乐</font></font></a></li>
+</ul>
+</div>
+</div>
+<div class="page one-whole">
+<span id="ezoic-pub-ad-placeholder-126" class="center banner"></span>
+</div>
+</div>
+<span id="ezoic-pub-ad-placeholder-611"></span><span style="display:block !important;float:none !important;margin-bottom:20px !important;margin-left:0px !important;margin-right:0px !important;margin-top:20px !important;min-height:250px;text-align:center !important;" class="ezoic-ad box-2 adtester-container adtester-container-611" data-ez-name="storynory_com-box-2"><span id="div-gpt-ad-storynory_com-box-2-0" ezaw="300" ezah="250" style="position:relative;z-index:0;display:inline-block;min-height:250px;min-width:300px;" class="ezoic-ad ezoic-adl"><script data-ezscrex="false" data-cfasync="false" type="text/javascript" style="display:none;">eval(ez_write_tag([[300,250],'storynory_com-box-2','ezslot_0',611,'0','0']));</script></span></span>
+<div class="box-mini-top-bottom  page">
+<div class="page bk-white ov-hidden g rounded-top ">
+<div class="width-620  ov-hidden">
+<span id="ezoic-pub-ad-placeholder-620" class="center banner"></span>
+<div class="one-whole u txt-center  cf">
+<span class="cf right box-tiny-right txt-center one-whole "><b class="clr-green icon icon-bubble "></b><a href="#respond"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">259条留言</font></font></a></span>
+</div>
+<div class="u  ">
+<div class="box-tiny box-mini-bottom gut-m  ">
+<header class="box-mini-top txt-center">
+<h1 class="fancy clr-green"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">猫公社</font></font></h1><span class="ezoic-autoinsert-ad ezoic-top_of_page"></span>
+</header><span class="ezoic-autoinsert-ad ezoic-top_of_page"></span>
+<audio id="player" src="https://omny.fm/shows/storynory/the-commune-of-cats.mp3">
+</audio>
+<div class=" bk-black ov-hidden box-tiny rounded">
+<div class="left  box-mini-right ov-hidden ">
+<b id="js-playbutton" class="round txt-center p-large clr-green ic icon-play "></b>
+</div>
+<div class="right box-mini-right ov-hidden">
+<b class="round txt-center p-large clr-green ic high icon-volume  "></b>
+</div>
+<div class="box-mini box-flush-left ov-hidden ">
+<div id="prog-container" class=" rel bk-yellow rounded   ov-hidden pointer  ">
+<div id="sound-prog" class="bk-green transp width-0 disp-inline width-20  box-tiny"></div>
+</div>
+</div>
+</div>
+<ul class="one-whole cf ">
+<li class="small left box-tiny-top-bottom box-tiny-top"><a href="https://omny.fm/shows/storynory/the-commune-of-cats.mp3" download="true"><b class="icon icon-download"></b><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> 下载</font></font></a></li>
+<li class="small right box-tiny-top-bottom box-tiny-top"><span id="timer"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">00:00</font></font></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">  &nbsp;/&nbsp;  </font></font><span id="dur"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">00:00</font></font></span> </li>
+</ul>
+<p><a href="//www.storynory.com/wp-content/uploads/2020/02/cats-commune-cover.jpg"><script data-pagespeed-no-defer="">(function(){var g=this;function h(b,d){var a=b.split("."),c=g;a[0]in c||!c.execScript||c.execScript("var "+a[0]);for(var e;a.length&&(e=a.shift());)a.length||void 0===d?c[e]?c=c[e]:c=c[e]={}:c[e]=d};function l(b){var d=b.length;if(0<d){for(var a=Array(d),c=0;c<d;c++)a[c]=b[c];return a}return[]};function m(b){var d=window;if(d.addEventListener)d.addEventListener("load",b,!1);else if(d.attachEvent)d.attachEvent("onload",b);else{var a=d.onload;d.onload=function(){b.call(this);a&&a.call(this)}}};var n;function p(b,d,a,c,e){this.h=b;this.j=d;this.l=a;this.f=e;this.g={height:window.innerHeight||document.documentElement.clientHeight||document.body.clientHeight,width:window.innerWidth||document.documentElement.clientWidth||document.body.clientWidth};this.i=c;this.b={};this.a=[];this.c={}}function q(b,d){var a,c,e=d.getAttribute("data-pagespeed-url-hash");if(a=e&&!(e in b.c))if(0>=d.offsetWidth&&0>=d.offsetHeight)a=!1;else{c=d.getBoundingClientRect();var f=document.body;a=c.top+("pageYOffset"in window?window.pageYOffset:(document.documentElement||f.parentNode||f).scrollTop);c=c.left+("pageXOffset"in window?window.pageXOffset:(document.documentElement||f.parentNode||f).scrollLeft);f=a.toString()+","+c;b.b.hasOwnProperty(f)?a=!1:(b.b[f]=!0,a=a<=b.g.height&&c<=b.g.width)}a&&(b.a.push(e),b.c[e]=!0)}p.prototype.checkImageForCriticality=function(b){b.getBoundingClientRect&&q(this,b)};h("pagespeed.CriticalImages.checkImageForCriticality",function(b){n.checkImageForCriticality(b)});h("pagespeed.CriticalImages.checkCriticalImages",function(){r(n)});function r(b){b.b={};for(var d=["IMG","INPUT"],a=[],c=0;c<d.length;++c)a=a.concat(l(document.getElementsByTagName(d[c])));if(0!=a.length&&a[0].getBoundingClientRect){for(c=0;d=a[c];++c)q(b,d);a="oh="+b.l;b.f&&(a+="&n="+b.f);if(d=0!=b.a.length)for(a+="&ci="+encodeURIComponent(b.a[0]),c=1;c<b.a.length;++c){var e=","+encodeURIComponent(b.a[c]);131072>=a.length+e.length&&(a+=e)}b.i&&(e="&rd="+encodeURIComponent(JSON.stringify(t())),131072>=a.length+e.length&&(a+=e),d=!0);u=a;if(d){c=b.h;b=b.j;var f;if(window.XMLHttpRequest)f=new XMLHttpRequest;else if(window.ActiveXObject)try{f=new ActiveXObject("Msxml2.XMLHTTP")}catch(k){try{f=new ActiveXObject("Microsoft.XMLHTTP")}catch(v){}}f&&(f.open("POST",c+(-1==c.indexOf("?")?"?":"&")+"url="+encodeURIComponent(b)),f.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),f.send(a))}}}function t(){var b={},d=document.getElementsByTagName("IMG");if(0==d.length)return{};var a=d[0];if(!("naturalWidth"in a&&"naturalHeight"in a))return{};for(var c=0;a=d[c];++c){var e=a.getAttribute("data-pagespeed-url-hash");e&&(!(e in b)&&0<a.width&&0<a.height&&0<a.naturalWidth&&0<a.naturalHeight||e in b&&a.width>=b[e].o&&a.height>=b[e].m)&&(b[e]={rw:a.width,rh:a.height,ow:a.naturalWidth,oh:a.naturalHeight})}return b}var u="";h("pagespeed.CriticalImages.getBeaconData",function(){return u});h("pagespeed.CriticalImages.Run",function(b,d,a,c,e,f){var k=new p(b,d,a,e,f);n=k;c&&m(function(){window.setTimeout(function(){r(k)},0)})});})();pagespeed.CriticalImages.Run('/ngx_pagespeed_beacon','//www.storynory.com/the-commune-of-cats/','X0kda3vR99',true,false,'9Vpq20IS7Ro');</script><img src="//www.storynory.com/wp-content/uploads/2020/02/cats-commune-cover.jpg" alt="七彩猫" width="3000" height="3000" class="alignnone size-full wp-image-27320" srcset="https://www.storynory.com/wp-content/uploads/2020/02/cats-commune-cover.jpg 3000w, https://www.storynory.com/wp-content/uploads/2020/02/cats-commune-cover-100x100.jpg 100w, https://www.storynory.com/wp-content/uploads/2020/02/cats-commune-cover-600x600.jpg 600w, https://www.storynory.com/wp-content/uploads/2020/02/cats-commune-cover-768x768.jpg 768w, https://www.storynory.com/wp-content/uploads/2020/02/cats-commune-cover-1200x1200.jpg 1200w, https://www.storynory.com/wp-content/uploads/2020/02/cats-commune-cover-200x200.jpg 200w, https://www.storynory.com/wp-content/uploads/2020/02/cats-commune-cover-300x300.jpg 300w" sizes="(max-width: 3000px) 100vw, 3000px" data-pagespeed-url-hash="3103222954" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" style=""></a><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+插图：逗猫家族作者：Kudryashka / Adob​​e Stock</font></font><span id="ezoic-pub-ad-placeholder-646" class="ezoic-adpicker-ad" data-ezadpicker="646" data-ez-position-type="under_page_title"></span><span style="display:inline-block;float:none;margin-bottom:10px !important;margin-left:0px !important;margin-right:0px !important;margin-top:10px !important;min-height:100px;" class="ezoic-ad box-3 adtester-container adtester-container-646" data-ez-name="storynory_com-box-3"><span id="div-gpt-ad-storynory_com-box-3-0" ezaw="320" ezah="100" style="position:relative;z-index:0;display:inline-block;min-height:100px;min-width:320px;" class="ezoic-ad"><script data-ezscrex="false" data-cfasync="false" type="text/javascript" style="display:none;">eval(ez_write_tag([[320,100],'storynory_com-box-3','ezslot_2',646,'0','0']));</script></span></span></p>
+<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">猫公社。</font></font></p>
+<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">理查德读。</font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+Jana的Lizzie＆Maddy。</font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+验证和音频由Jana编辑。</font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+由Bertie改编。</font></font></p><div style="clear:both" id="ez-clearholder-medrectangle-3"></div><span style="background:0 0 !important;display:block !important;float:none;margin-left:auto !important;margin-right:auto !important;min-height:120px;text-align:center !important;width:;" class="ezoic-ad medrectangle-3 adtester-container adtester-container-320 ezoic-ad-adaptive" data-ez-name="storynory_com-medrectangle-3"><span style="display:block;float:none;margin-bottom:1px !important;margin-left:0px !important;margin-right:0px !important;margin-top:1px !important;min-height:70px;text-align:center !important;" class="ezoic-ad medrectangle-3 adtester-container adtester-container-320" data-ez-name="storynory_com-medrectangle-3"><span id="div-gpt-ad-storynory_com-medrectangle-3-0" ezaw="320" ezah="50" style="position:relative;z-index:0;display:inline-block;min-height:50px;min-width:320px;" class="ezoic-ad"><script data-ezscrex="false" data-cfasync="false" type="text/javascript" style="display:none;">eval(ez_write_tag([[320,50],'storynory_com-medrectangle-3','ezslot_7',320,'0','0']));</script></span></span><span style="display:block;float:none;margin-bottom:1px !important;margin-left:0px !important;margin-right:0px !important;margin-top:1px !important;min-height:70px;text-align:center !important;" class="ezoic-ad medrectangle-3 adtester-container adtester-container-320" data-ez-name="storynory_com-medrectangle-3"><span id="div-gpt-ad-storynory_com-medrectangle-3-0_1" ezaw="320" ezah="50" style="position:relative;z-index:0;display:inline-block;min-height:50px;min-width:320px;" class="ezoic-ad"><script data-ezscrex="false" data-cfasync="false" type="text/javascript" style="display:none;">eval(ez_write_tag([[320,50],'storynory_com-medrectangle-3','ezslot_8',320,'0','1']));</script></span></span></span><span class="ezoic-autoinsert-ad ezoic-under_first_paragraph"></span>
+<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">很久以前，当猫仍然可以像人类一样说话时，猫的公社就住在一个大宅邸中。</font><font style="vertical-align: inherit;">房子的28个房间中的每一个都充满了猫和小猫。</font><font style="vertical-align: inherit;">只有第29个房间没有拥挤。</font><font style="vertical-align: inherit;">这个房间很大，占据了房子的整个三层-稍后我们将更多地了解谁住在那儿。</font></font></p>
+<p><span id="ezoic-pub-ad-placeholder-662" class="ezoic-adpicker-ad" data-ezadpicker="662" data-ez-position-type="under_page_title"></span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">总共有103个猫科在该建筑物中睡觉，并在广阔的地面上漫步。</font><font style="vertical-align: inherit;">猫很富有，因此拥有了过上舒适生活所需的一切。</font><font style="vertical-align: inherit;">一位公主曾经住过这所房子，直到她年纪大了，她把全部财产都留给了猫。</font><font style="vertical-align: inherit;">当公主登上天空中的宏伟宫殿时，她忠实的仆人继续住在房子里，照顾所有猫的需要。</font><font style="vertical-align: inherit;">岁月流逝，直到他也过世了，加入了公主的行列，然后猫们想知道谁可以成为他们的新仆人。</font></font></p>
+<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">现在碰巧有一个十六岁的好心少女与猫住在同一个城镇。</font><font style="vertical-align: inherit;">这位年轻女士的名字叫莉兹（Lizzy），和她的继母马蒂（Maddy）住在一起，马蒂对她极度卑鄙，并经常告诉她她丑陋而愚蠢。</font><font style="vertical-align: inherit;">有一天，丽兹（Lizzy）受够了被撞倒并受到批评，她宣布，</font></font><span id="ezoic-pub-ad-placeholder-647" class="ezoic-adpicker-ad" data-ezadpicker="647" data-ez-position-type="under_second_paragraph"></span></p><div>
+</div>
+<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">“而已！</font><font style="vertical-align: inherit;">我要和猫住在一起！”</font></font><span id="ezoic-pub-ad-placeholder-663" class="ezoic-adpicker-ad" data-ezadpicker="663" data-ez-position-type="under_first_paragraph"></span></p>
+<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">“喵！” </font><font style="vertical-align: inherit;">她的姐姐嘲讽地说。</font></font></p><div style="clear:both" id="ez-clearholder-medrectangle-4"></div><span style="display:block;float:none;margin-bottom:1px !important;margin-left:0px !important;margin-right:0px !important;margin-top:1px !important;min-height:70px;text-align:center !important;" class="ezoic-ad medrectangle-4 adtester-container adtester-container-340" data-ez-name="storynory_com-medrectangle-4"><span id="div-gpt-ad-storynory_com-medrectangle-4-0" ezaw="320" ezah="50" style="position:relative;z-index:0;display:inline-block;min-height:50px;min-width:320px;" class="ezoic-ad ezoic-adl"><script data-ezscrex="false" data-cfasync="false" type="text/javascript" style="display:none;">eval(ez_write_tag([[320,50],'storynory_com-medrectangle-4','ezslot_22',340,'0','0']));</script></span></span><span class="ezoic-autoinsert-ad ezoic-under_second_paragraph"></span>
+<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">但是丽兹不是在开玩笑。</font><font style="vertical-align: inherit;">她的意思是她说的。</font><font style="vertical-align: inherit;">她把她的少量财产装在一个小袋子里，然后去了属于猫的大宅邸。</font></font></p><span class="ezoic-autoinsert-ad ezoic-under_second_paragraph"></span>
+<a href="//www.storynory.com/wp-content/uploads/2020/02/the-colony-of-cats-italian-fairy-tale.jpg"><img src="//www.storynory.com/wp-content/uploads/2020/02/xthe-colony-of-cats-italian-fairy-tale.jpg.pagespeed.ic.5dmEi9Pb3_.webp" alt="" width="628" height="705" class="alignnone size-full wp-image-27323" srcset="https://www.storynory.com/wp-content/uploads/2020/02/the-colony-of-cats-italian-fairy-tale.jpg 628w, https://www.storynory.com/wp-content/uploads/2020/02/the-colony-of-cats-italian-fairy-tale-534x600.jpg 534w, https://www.storynory.com/wp-content/uploads/2020/02/the-colony-of-cats-italian-fairy-tale-178x200.jpg 178w" sizes="(max-width: 628px) 100vw, 628px" data-pagespeed-url-hash="3376719174" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" style=""></a>
+<p><span id="ezoic-pub-ad-placeholder-664" class="ezoic-adpicker-ad" data-ezadpicker="664" data-ez-position-type="under_second_paragraph"></span>She opened the front gate, and walked up the path through the overgrown garden. The grass was long, and there grew lots of dandelions, daisies, and even stinging nettles, because that was how the cats liked to keep their garden. Cats believe that the wilder nature is, the better. </p>
+<p>As she approached the house, she could hear a purring sound emanating from within. </p><span class="ezoic-autoinsert-ad ezoic-under_second_paragraph"></span>
+<p>PRRRRRRRRR, PRRRRRRRR...</p>
+<p>The great front door was ajar - just enough to let a cat slip through. Lizzy pushed it open and walked in. She had been expecting to see cats, but even so, she was amazed by what she found. There were cats climbing over, or sleeping, on the piano, the sofas, the chairs, the windowsills, one of them had even managed to jump from the balcony onto the chandelier - every one of the steps of the great staircase was a seat for at least two cats. Everywhere she looked there were cats! </p>
+<p>“Excuse me,” said Lizzy. “May I speak to the chief cat?” <span id="ezoic-pub-ad-placeholder-665" class="ezoic-adpicker-ad" data-ezadpicker="665" data-ez-position-type="mid_content"></span><span style="display:block !important;float:none;margin-bottom:2px !important;margin-left:0px !important;margin-right:0px !important;margin-top:2px !important;min-height:270px;text-align:center !important;" class="ezoic-ad box-4 adtester-container adtester-container-665" data-ez-name="storynory_com-box-4"><span id="div-gpt-ad-storynory_com-box-4-0" ezaw="300" ezah="250" style="position:relative;z-index:0;display:inline-block;min-height:250px;min-width:300px;" class="ezoic-ad ezoic-adl"><script data-ezscrex="false" data-cfasync="false" type="text/javascript" style="display:none;">eval(ez_write_tag([[300,250],'storynory_com-box-4','ezslot_27',665,'0','0']));</script></span></span></p>
+<p>“None of us is chief,” declared a sleepy black cat, “because all who live in the cat commune are equal, but we acknowledge the wisdom of a wise cat whose name is Comrade Gatsby. You may find him on the third floor.”</p>
+<p>Lizzy thanked the black cat and climbed the stairs, being careful not to step on any of the feline inhabitants. She passed up through the second floor which was as packed with cats as the first, and, carried on climbing up to the third storey of the house. She was surprised that this part of the staircase was empty of cats and she could see the red carpet woven with the gold coat of arms of the princess who had once lived in the house. When she arrived at the top, she at first thought that the entire floor was empty of life. It was one long spacious room filled with sunlight. Paintings hung on the walls, and statues of people who might have been Romans or Greeks seemed to be the only occupants. It was like a gallery in a museum ! Her eye was drawn to one especially large and elegant painting. It was a portrait of a bejewelled lady, whom she guessed to be the princess and former owner of the house, and in her arms she was holding a fat, smug, tabby cat. As she moved her eyes from the painting, she finally noticed, fast asleep on a large gilded throne, a tabby cat exactly like the one in the picture, only fatter, and with gray hairs. </p>
+<p>“Ahem,” she said, “Excuse me sir.”<span id="ezoic-pub-ad-placeholder-666" class="ezoic-adpicker-ad" data-ezadpicker="666" data-ez-position-type="long_content"></span></p>
+<p>“Prrrr,” said the cat, “you may bring me my cream.” Lizzy looked around and she saw a silver jug of cream sitting on a windowsill to keep. She poured some into a gold rimmed bowl and brought it to the old cat, who gladly licked it with his rough tongue. <span id="ezoic-pub-ad-placeholder-655" class="ezoic-adpicker-ad" data-ezadpicker="655" data-ez-position-type="mid_content"></span></p>
+<p>“Erm, I hope you don’t mind me asking, Sir, but are you the cat in the painting with the princess?”</p><div style="clear:both" id="ez-clearholder-banner-1"></div><span style="display:block;float:none;margin-bottom:2px !important;margin-left:0px !important;margin-right:0px !important;margin-top:2px !important;min-height:270px;text-align:center !important;" class="ezoic-ad banner-1 adtester-container adtester-container-360" data-ez-name="storynory_com-banner-1"><span id="div-gpt-ad-storynory_com-banner-1-0" ezaw="300" ezah="250" style="position:relative;z-index:0;display:inline-block;min-height:250px;min-width:300px;" class="ezoic-ad ezoic-adl"><script data-ezscrex="false" data-cfasync="false" type="text/javascript" style="display:none;">eval(ez_write_tag([[300,250],'storynory_com-banner-1','ezslot_11',360,'0','0']));</script></span></span><span class="ezoic-autoinsert-ad ezoic-long_content"></span>
+<p>“Oh no” replied the tabby. “He lived here long ago, in the former times, when things were entirely different.”</p><span class="ezoic-autoinsert-ad ezoic-long_content"></span>
+<p>“Very good Sir. I hope you don’t mind my questions. I’m curious by nature, you see. In actual fact, I’ve come to look for work. I can cook, clean, and mend, and I can even tend to the garden.”</p>
+<p>“Mmm,” said Comrade Gatsby. “We are in need of a new servant. We shall try you out, and if you work hard, you may stay.”</p>
+<p><span id="ezoic-pub-ad-placeholder-667" class="ezoic-adpicker-ad" data-ezadpicker="667" data-ez-position-type="longer_content"></span>“Thank you Sir, thank you. I promise not to disappoint you,” said Lizzy gratefully. <span id="ezoic-pub-ad-placeholder-656" class="ezoic-adpicker-ad" data-ezadpicker="656" data-ez-position-type="long_content"></span></p>
+<p>From then on, she slept on a sofa on the ground floor, surrounded by cats. In the day, she washed the windows, dusted the furniture, wiped cat hairs off the sofas, cleaned out the fireplaces, and scrubbed the floors on her hands and needs. The cats, who appreciated cleanliness, always got out of her way so that she could carry out her duties freely. But of course, there was only so much Lizzy could do. However hard she scrubbed, she could not get rid of the fishy, catty smell that hung around the lower floors of the palace. At first the pong made her feel a little queasy, but she soon got used to it, and after a while, stopped noticing it all together. </p><span class="ezoic-autoinsert-ad ezoic-long_content"></span>
+<p>She soon showed her good nature. She helped little kittens who got stuck in trees, she nursed old cats who had aches and pains, and when two or more cats were screeching at each other, on the verge of a dreadful fight with tooth and claw, she soothed their tempers and patched up the quarrel. She did all this - and she still had time to bring Comrade Gatsby his cream and make sure that his bed was clean and comfortable. When the fishmonger delivered dinner, she took the largest and best piece to Comrade Gatsby and then divided the rest fairly among the families of cats who lived downstairs. Finally she cooked some pilchards for her own supper. </p>
+<p>In short, before her two week trial period was up, the cats loved Lizzy far too much to let her go. Comrade Gatsby gave her a permanent position as the cats’ servant. </p><span class="ezoic-autoinsert-ad ezoic-longer_content"></span>
+<p>Six months passed in this way, and Lizzy who had been working hard the whole time, was in need of a break. She had saved up a few pennies from her small salary, and she meant to go to the seaside. She asked Comrade Gatsby if she could have his blessing for the holiday, and he said, </p><span class="ezoic-autoinsert-ad ezoic-longer_content"></span>
+<p>“A comrade worker deserves a rest once a year. Take a gold coin from my trunk. You have earned it.”</p><span class="ezoic-autoinsert-ad ezoic-longer_content"></span>
+<p>Lizzy had not looked in Comrade Gatsby’s private trunk before, although she had polished its brass plates and lock. Now she had his permission, she opened it with the key, and found that it was brimming with gold coins. What a fortune was in there! And he had several more trunks at the other end of the room. </p>
+<p>She took just one gold coin, thanked her master for his generosity, and happily skipped downstairs where she promised all the cats that she would be back after two weeks were up. </p>
+<p>“Mee-ow, me-ow, what we will do without you? Lizzy, please stay?” pleaded the cats. <span id="ezoic-pub-ad-placeholder-657" class="ezoic-adpicker-ad" data-ezadpicker="657" data-ez-position-type="longer_content"></span></p>
+<p>But Lizzy laughed happily and said, “Don’t worry, I’ll be back in no time. I’ve given my word to Comrade Gatsby that I will return after my holiday. And why shouldn’t I? I’m as happy as I have ever been living here and working for you.”</p><span class="ezoic-autoinsert-ad ezoic-longest_content"></span>
+<p>Lizzy left the house, passed through the garden, and strolled down the road heading for the inn where the stagecoach picked up passengers on the way to the seaside. But before she reached the inn, who should she see, but her cruel stepsister, Maddy?</p><span class="ezoic-autoinsert-ad ezoic-longest_content"></span>
+<p>“Well, we’ll, we’ll, look who it is!” exclaimed Maddy. “It’s the cat girl. Meow! How are you? How’s life in the house of cats?”</p><span class="ezoic-autoinsert-ad ezoic-longest_content"></span>
+<p>“Oh it’s simply wonderful!” replied Lizzy. “I’m off on holiday with this gold sovereign that Comrade Gatsby, the wisest and most revered of the cats has given me. He has boxes and boxes of coins just like this one!” and she flashed her gold at her sister. “A proper gentleman he is, and he treats me so nicely and with a great deal of respect.”</p>
+<p>Now it might have been unwise of Lizzy to give all this information to Maddy, but she could not help herself. She wanted to boast about how she had found happiness and a good job after leaving a life of misery with her stepsister. </p>
+<p>Maddy tossed her head and said, “Hmmph. I wouldn’t lower myself to work for cats.”</p>
+<p>“Well, that’s your loss,” replied Lizzy, and she ran off to the inn to catch her coach to the seaside. </p><span class="ezoic-autoinsert-ad ezoic-incontent_5"></span>
+<p>Now Maddy thought to herself, “So, that old cat is rich is he? I know. I’ll marry him. And when he dies, which might be sooner rather than later, I shall have all his money! And then I shall kick all the cats out of the house and live there with whichever handsome young man I pick for my husband. I’m not simple like Lizzy. I’m not going to work my knees off just for one measly gold coin, when with my looks and charm, I can have it all!”</p><span class="ezoic-autoinsert-ad ezoic-incontent_5"></span>
+<p>Maddy went to the House of Cats. She pushed open the garden gate, and saw that the garden was overgrown and overrun with kittens. She turned her nose up and walked purposely up to the front door. She pulled the bell rope, but as it did not ring, she pushed open the door. Inside she found cats crawling everywhere. </p><span class="ezoic-autoinsert-ad ezoic-incontent_5"></span>
+<p>“Phorrr! This place stinks!” she said. Like Lizzy before her, she climbed up the stairs until she came to the part of the house that was richly furnished and more or less empty of cats. She glanced around the top floor and saw the tabby cat fast asleep on his throne, and she did not fail to notice the painting of the princess with a very similar animal sitting on her lap. </p>
+<p>“Oi there?,” said Maddy. “My sister Lizzy told me, I could find you here.” Lizzy was in fact her step-sister, but she was not being precise. </p>
+<p>“Ah, I’m glad you came,” said the Tabby. “Be a good lass. Fetch me my cream.”</p>
+<p>Maddy thought that he was being rather patronising, but all the same, she did as he asked, and poured some cream from the silver jug on the window cill into his bowl. She brought it over to the fat old tabby who began to lick it with his rough tongue while purring. When he had finished, Maddy asked, </p><div style="clear:both" id="ez-clearholder-sky-3"></div><span style="display:block;float:none;margin-bottom:2px !important;margin-left:0px !important;margin-right:0px !important;margin-top:2px !important;min-height:270px;text-align:center !important;" class="ezoic-ad sky-3 adtester-container adtester-container-701" data-ez-name="storynory_com-sky-3"><span id="div-gpt-ad-storynory_com-sky-3-0" ezaw="300" ezah="250" style="position:relative;z-index:0;display:inline-block;min-height:250px;min-width:300px;" class="ezoic-ad"><script data-ezscrex="false" data-cfasync="false" type="text/javascript" style="display:none;">eval(ez_write_tag([[300,250],'storynory_com-sky-3','ezslot_32',701,'0','0']));</script></span></span><span class="ezoic-autoinsert-ad ezoic-incontent_6"></span>
+<p>“Enjoy that, did you?”</p><span class="ezoic-autoinsert-ad ezoic-incontent_6"></span>
+<p>“Not bad,” replied the cat. </p><span class="ezoic-autoinsert-ad ezoic-incontent_6"></span>
+<p>Maddy sat down on the throne next to Comrade Gatsby and tickled him behind the ears. </p>
+<p>“Now listen, I have a proposal. If you want to always be the cat who got the cream, why don’t you marry me? I’ll be sure to look after you properly, better than my sister, because I know how to spoil a cat rotten, while she’s just a simple girl, who doesn’t even appreciate the finer things in life.”</p>
+<p>“Well that’s an idea,” said Comrade Gatsby. “Stop here for a couple of weeks, and look after the house. If you work better than your sister, I shall consider your proposal.”</p>
+<p>“You’re on. I know you won’t be disappointed,” said Maddy. </p>
+<p>“You can start downstairs right away,” said the Comrade. “Lizzy has only been gone an hour, but it’s chaos already. I can hear kittens meowing for their milk.” </p><div style="clear:both" id="ez-clearholder-netboard-2"></div><span style="background:0 0 !important;display:block !important;float:none;margin-left:auto !important;margin-right:auto !important;min-height:120px;text-align:center !important;width:;" class="ezoic-ad netboard-2 adtester-container adtester-container-702 ezoic-ad-adaptive" data-ez-name="storynory_com-netboard-2"><span style="display:block;float:none;margin-bottom:1px !important;margin-left:0px !important;margin-right:0px !important;margin-top:1px !important;min-height:70px;text-align:center !important;" class="ezoic-ad netboard-2 adtester-container adtester-container-702" data-ez-name="storynory_com-netboard-2"><span id="div-gpt-ad-storynory_com-netboard-2-0" ezaw="320" ezah="50" style="position:relative;z-index:0;display:inline-block;min-height:50px;min-width:320px;" class="ezoic-ad"><script data-ezscrex="false" data-cfasync="false" type="text/javascript" style="display:none;">eval(ez_write_tag([[320,50],'storynory_com-netboard-2','ezslot_25',702,'0','0']));</script></span></span><span style="display:block;float:none;margin-bottom:1px !important;margin-left:0px !important;margin-right:0px !important;margin-top:1px !important;min-height:70px;text-align:center !important;" class="ezoic-ad netboard-2 adtester-container adtester-container-702" data-ez-name="storynory_com-netboard-2"><span id="div-gpt-ad-storynory_com-netboard-2-0_1" ezaw="320" ezah="50" style="position:relative;z-index:0;display:inline-block;min-height:50px;min-width:320px;" class="ezoic-ad"><script data-ezscrex="false" data-cfasync="false" type="text/javascript" style="display:none;">eval(ez_write_tag([[320,50],'storynory_com-netboard-2','ezslot_26',702,'0','1']));</script></span></span></span><span class="ezoic-autoinsert-ad ezoic-incontent_7"></span>
+<p>“Leave it to me, I’ll soon sort them out,” promised Maddy. </p><span class="ezoic-autoinsert-ad ezoic-incontent_7"></span>
+<p>She went down the stairs, clapped her hands, and called out, “Order! Order! Can we have some order around here please?” </p><span class="ezoic-autoinsert-ad ezoic-incontent_7"></span>
+<p>The cats meowed back at her. </p>
+<p>“Now where’s your manners?” asked Maddy, and picking up the broom, she shewed cats off the stairs. “Shoo, shoo, off you go,” she said as she swept them away from the tables. The cats did not like being treated so roughly, but they were afraid of the woman whose eyes blazed fiercely. </p>
+<p>“Who are you?” asked one of them. </p>
+<p>“I’m the elder and better sister of Lizzy,” she replied. “And soon I’m to marry Comrade Gatsby, so ‘you’ better treat me with respect”.</p>
+<p>“Lizzy’s much nicer than you are,” said another cat. </p>
+<p>“And more dopey,” replied Maddy. “Here clear off that sofa, you’re getting hairs all over the cushions - hey! - and you cat there ! Don’t you dare go scratching your claws on the back of that chair - here I’ll show you what for! Clear off !” And she threw a bucket of soapy water over him. </p>
+<p>Splash! </p><span class="ezoic-autoinsert-ad ezoic-incontent_8"></span>
+<p>Cats screeched and scattered in all directions. </p><span class="ezoic-autoinsert-ad ezoic-incontent_8"></span>
+<p>Now the cats had to admit that Maddy was efficient, even if she was bad tempered. “I run a tight ship and I don’t take any nonsense,” she insisted. Gradually she cleared a good deal of the clutter and cat hairs out of the mansion - the trouble was that she drove a large number of the cats out into the garden too. </p><span class="ezoic-autoinsert-ad ezoic-incontent_8"></span>
+<p>After 10 days were up, the house was looking even more spic and span than when Lizzy had been cleaning, and the cats were trained to keep off the sofas and the stairs. </p>
+<p> In the early evening, when the fishmonger bought his box of food for the house, Maddy quizzed him for any information he had on Comrade Gatsby. </p>
+<p>“Well he always pays the bills promptly, and he’s the boss cat around here,” said the fishmonger, “I knew his grandfather when the good princess was alive. We always used to joke that he was the real master of the house, and now, in his grandson’s time, that’s come true.”</p>
+<p>“So is that Comrade Gatsby’s grandfather in the painting of the princess?” asked Maddy. </p><div style="clear:both" id="ez-clearholder-sky-4"></div><span style="background:0 0 !important;display:block !important;float:none;margin-left:auto !important;margin-right:auto !important;min-height:300px;text-align:center !important;width:;" class="ezoic-ad sky-4 adtester-container adtester-container-704 ezoic-ad-adaptive" data-ez-name="storynory_com-sky-4"><span style="display:block;float:none;margin-bottom:1px !important;margin-left:0px !important;margin-right:0px !important;margin-top:1px !important;min-height:120px;text-align:center !important;" class="ezoic-ad sky-4 adtester-container adtester-container-704" data-ez-name="storynory_com-sky-4"><span id="div-gpt-ad-storynory_com-sky-4-0" ezaw="320" ezah="140" style="position:relative;z-index:0;display:inline-block;min-height:140px;min-width:320px;" class="ezoic-ad ezoic-adl"><script data-ezscrex="false" data-cfasync="false" type="text/javascript" style="display:none;">eval(ez_write_tag([[320,100],'storynory_com-sky-4','ezslot_33',704,'0','0']));</script></span></span><span style="display:block;float:none;margin-bottom:1px !important;margin-left:0px !important;margin-right:0px !important;margin-top:1px !important;min-height:120px;text-align:center !important;" class="ezoic-ad sky-4 adtester-container adtester-container-704" data-ez-name="storynory_com-sky-4"><span id="div-gpt-ad-storynory_com-sky-4-0_1" ezaw="320" ezah="140" style="position:relative;z-index:0;display:inline-block;min-height:140px;min-width:320px;" class="ezoic-ad ezoic-adl"><script data-ezscrex="false" data-cfasync="false" type="text/javascript" style="display:none;">eval(ez_write_tag([[320,100],'storynory_com-sky-4','ezslot_34',704,'0','1']));</script></span></span></span><span class="ezoic-autoinsert-ad ezoic-incontent_9"></span>
+<p>“That’s him, alright, ” confirmed the fishmonger. </p><span class="ezoic-autoinsert-ad ezoic-incontent_9"></span>
+<p>Maddy brought Comrade Gatsby his prize fish, as she did every day. </p><span class="ezoic-autoinsert-ad ezoic-incontent_9"></span>
+<p>“Here you are Comrade,” she said. “Wrap your chops round this fine piece of trout.”</p>
+<p>“I shall, indeed,” said the old cat. </p>
+<p>“But before I leave you to it,” said Maddy, “have you considered my proposal?”</p>
+<p>“Which one was that?” asked the Comrade. </p>
+<p>“Why marriage, of course!” said Maddy. “My sister is due back in a couple of days time. You wouldn’t want the house to slip back into her old slack and lazy state would you?”</p>
+<p>“Well actually, I liked her better than you,” said Gatsby. </p>
+<p>Maddy was so furious that she picked up the cat’s bowl of fish and flung it out of the open window. They both heard it crash on the path outside, where several cats were soon screeching and fighting over the fine food. </p><div style="clear:both" id="ez-clearholder-leader-2"></div><span style="display:block;float:none;margin-bottom:2px !important;margin-left:0px !important;margin-right:0px !important;margin-top:2px !important;min-height:270px;text-align:center !important;" class="ezoic-ad leader-2 adtester-container adtester-container-705" data-ez-name="storynory_com-leader-2"><span id="div-gpt-ad-storynory_com-leader-2-0" ezaw="300" ezah="250" style="position:relative;z-index:0;display:inline-block;min-height:250px;min-width:300px;" class="ezoic-ad ezoic-adl"><script data-ezscrex="false" data-cfasync="false" type="text/javascript" style="display:none;">eval(ez_write_tag([[300,250],'storynory_com-leader-2','ezslot_15',705,'0','0']));</script></span></span><span class="ezoic-autoinsert-ad ezoic-incontent_10"></span>
+<p>“Temper, temper,” said Comrade Gatsby. </p><span class="ezoic-autoinsert-ad ezoic-incontent_10"></span>
+<p>“That was nothing. I’ll give you temper!” screeched Maddy shaking her fist at the comrade. He remained motionless and stared back at her, just as if she were a crazy dog on the end of a lead. Maddy thought about his sharp claws, and her own face, and thought better of trying to strangle him. </p><span class="ezoic-autoinsert-ad ezoic-incontent_10"></span>
+<p>“I know the truth about you,”she said. “I heard the story from the fishmonger. You’re the grandson of that cat in the painting. You say that everything has changed and all you cats are equal, but you’re just a fat old aristocratic cat living a life of luxury while all the comrades are in crowded and filthy conditions downstairs. Nothing has changed at all. You’re a hypocrite cat, and if you don’t marry me, I shall tell all the comrades downstairs the truth about you and your life of luxury. And I’ll tell them to come up here and see for themselves.”</p>
+<p>“If the cats visit the top floor, they will ruin it in no time with their claws,” said Comrade Gatsby, “just like they have spoiled downstairs, and they would spend all the money at once and then we would all be poor. The cats need a wise leader. That’s why they have me.” </p>
+<p>“So, won’t you marry me?” asked Maddy, who already knew the answer. </p><div style="clear:both" id="ez-clearholder-mobile-leaderboard-2"></div><span style="display:block;float:none;margin-bottom:2px !important;margin-left:0px !important;margin-right:0px !important;margin-top:2px !important;min-height:270px;text-align:center !important;" class="ezoic-ad mobile-leaderboard-2 adtester-container adtester-container-706" data-ez-name="storynory_com-mobile-leaderboard-2"><span id="div-gpt-ad-storynory_com-mobile-leaderboard-2-0" ezaw="300" ezah="250" style="position:relative;z-index:0;display:inline-block;min-height:250px;min-width:300px;" class="ezoic-ad ezoic-adl"><script data-ezscrex="false" data-cfasync="false" type="text/javascript" style="display:none;">eval(ez_write_tag([[300,250],'storynory_com-mobile-leaderboard-2','ezslot_20',706,'0','0']));</script></span></span><span class="ezoic-autoinsert-ad ezoic-incontent_11"></span>
+<p>“Sorry,” said the cat. “You’re not my type.”</p><span class="ezoic-autoinsert-ad ezoic-incontent_11"></span>
+<p>“Right then,” replied the scorned young woman. “You’ll soon see that you’ve made a BIG mistake!”</p><span class="ezoic-autoinsert-ad ezoic-incontent_11"></span>
+<p>And she hurried downstairs, propelled by her fury.</p>
+<p>“Cats! Cats!”she called out, clapping her hands. “Comrade Gatsby has invited you all upstairs to see how he lives!”</p>
+<p>At first, the cats took little notice, but when Maddy went to fetch a broom - which made her look threatening - they started to listen to her. </p>
+<p>“Go on, he’s waiting for you, go upstairs and see!” she insisted.</p>
+<p>“Well, I for one am curious,” said a black and white cat. </p>
+<p>“It’s not as if we are busy right now, let’s go and take a peek,” agreed another who, judging by her looks, might have been a Siamese. </p>
+<p>Half a dozen cats took up the offer, and padded up the stairs to look round Comrade Gatsby’s upper floor. Maddy followed thinking, “I’m going to enjoy this - when they see he has all that luxury to himself while they are packed in downstairs, they’ll throw him out!”</p><span class="ezoic-autoinsert-ad ezoic-incontent_12"></span>
+<p>But she was very disappointed. The cats looked around at the room open eyed and full of admiration. </p><span class="ezoic-autoinsert-ad ezoic-incontent_12"></span>
+<p>“Very nice,” said one. </p><span class="ezoic-autoinsert-ad ezoic-incontent_12"></span>
+<p>“I like your paintings,” said another. </p>
+<p>“And the curtains are very tasteful,” said a third, who started to climb up one of the drapes. </p>
+<p> Maddy was fuming, until a fourth cat went to pee in a corner. She sniggered, and Gatsby hissed sternly, “Comrade, that is not the place!” and the ill-brought up cat backed off. </p>
+<p>The Siamese and the Black and White cats, who were the leaders of the delegation, bowed down before Comrade Gatasby’s thrown, and said, </p>
+<p>“Oh Lord High Comrade, thank you for inviting us to your floor. We want to take this opportunity to thank you for all you do for us, especially for paying the fishmonger’s bills.”</p>
+<p>“Oh you creeps!” sneered Maddy, but they took no notice of her. </p><div style="clear:both" id="ez-clearholder-narrow-sky-2"></div><span style="display:block;float:none;margin-bottom:1px !important;margin-left:0px !important;margin-right:0px !important;margin-top:1px !important;min-height:120px;text-align:center !important;" class="ezoic-ad narrow-sky-2 adtester-container adtester-container-708" data-ez-name="storynory_com-narrow-sky-2"><span id="div-gpt-ad-storynory_com-narrow-sky-2-0" ezaw="320" ezah="100" style="position:relative;z-index:0;display:inline-block;min-height:100px;min-width:320px;" class="ezoic-ad"><script data-ezscrex="false" data-cfasync="false" type="text/javascript" style="display:none;">eval(ez_write_tag([[320,100],'storynory_com-narrow-sky-2','ezslot_23',708,'0','0']));</script></span></span><span class="ezoic-autoinsert-ad ezoic-incontent_13"></span>
+<p>Comrade Gatsby licked his paw nonchalantly and replied, “As a reward for your loyalty, you may take a sardine out of the ice box on your way out.”</p><span class="ezoic-autoinsert-ad ezoic-incontent_13"></span>
+<p>“Thank you, thank you, your High Lord Comradeship” said the cats. </p><span class="ezoic-autoinsert-ad ezoic-incontent_13"></span>
+<p>“And I have one more task for you.”</p>
+<p>“Yes, your highness?”</p>
+<p>“Get a guard of cats together and escort Miss Maddy from the grounds of the house and make sure she never comes back.”</p>
+<p>“Yes your Lordship,” the cats said, and the black and white cat turned round and hissed fearfully at Maddy.</p>
+<p>“You don’t frighten me,” she replied, grabbing an inkpot from the desk and throwing it back at him. The pot landed next to his paw, and the ink splattered obliterating some of his white spots. </p>
+<p>The inky cat stared back at her with his eyes glowing like a tiger in the forest. A moment later, the other cats, sharp with tooth and claw, pounced onto Maddy. </p>
+<p>“Here, get off me, you fiendish felines,” shouted Maddy. </p><div style="clear:both" id="ez-clearholder-mobile-leaderboard-1"></div><span style="background:0 0 !important;display:block !important;float:none;margin-left:auto !important;margin-right:auto !important;min-height:300px;text-align:center !important;width:;" class="ezoic-ad mobile-leaderboard-1 adtester-container adtester-container-709 ezoic-ad-adaptive" data-ez-name="storynory_com-mobile-leaderboard-1"><span style="display:block;float:none;margin-bottom:1px !important;margin-left:0px !important;margin-right:0px !important;margin-top:1px !important;min-height:120px;text-align:center !important;" class="ezoic-ad mobile-leaderboard-1 adtester-container adtester-container-709" data-ez-name="storynory_com-mobile-leaderboard-1"><span id="div-gpt-ad-storynory_com-mobile-leaderboard-1-0" ezaw="320" ezah="140" style="position:relative;z-index:0;display:inline-block;min-height:140px;min-width:320px;" class="ezoic-ad"><script data-ezscrex="false" data-cfasync="false" type="text/javascript" style="display:none;">eval(ez_write_tag([[320,100],'storynory_com-mobile-leaderboard-1','ezslot_18',709,'0','0']));</script></span></span><span style="display:block;float:none;margin-bottom:1px !important;margin-left:0px !important;margin-right:0px !important;margin-top:1px !important;min-height:120px;text-align:center !important;" class="ezoic-ad mobile-leaderboard-1 adtester-container adtester-container-709" data-ez-name="storynory_com-mobile-leaderboard-1"><span id="div-gpt-ad-storynory_com-mobile-leaderboard-1-0_1" ezaw="320" ezah="140" style="position:relative;z-index:0;display:inline-block;min-height:140px;min-width:320px;" class="ezoic-ad"><script data-ezscrex="false" data-cfasync="false" type="text/javascript" style="display:none;">eval(ez_write_tag([[320,100],'storynory_com-mobile-leaderboard-1','ezslot_19',709,'0','1']));</script></span></span></span><span class="ezoic-autoinsert-ad ezoic-incontent_14"></span>
+<p>“MEEEEEEEEEOW!” screeched the cats. </p><span class="ezoic-autoinsert-ad ezoic-incontent_14"></span>
+<p>She tried to throw the cats off her, but they were biting and scratching wildly and she had no choice but to run downstairs. As she passed through the lower floors, scores of other cats joined in the pursuit and chased her through the grounds and the house and out onto the street. Further down the road, the kind hearted Lizzy, who had returned early from her holiday, saw her step sister running towards her with scratched face, arms and legs, and a torn dress. </p><span class="ezoic-autoinsert-ad ezoic-incontent_14"></span>
+<p>“These cats are completely mad! They are crazy, get them away from me!” shouted her sister as she hurtled past. </p>
+<p>“Hmm,” I wonder what got into her,” said Lizzy, and she went happily on her way back to the house of cats. </p>
+<p>“Surprise!” she called out as she came through the door. “I came back early because I missed you all so much.”</p>
+<p>The cats replied with loud appreciative purring. </p>
+<p>“My, my,” said Lizzy. “You’ve managed so well. The house is far cleaner and tidier than I expected to find it.”</p>
+<p>After she had picked up and cuddled some of the kittens who had noticeably grown in her absence, she went upstairs to tell Comrade Gatsby that she was back. </p><span class="ezoic-autoinsert-ad ezoic-incontent_15"></span>
+<p>“How nice to see you, my dear,” he purred. “We’ve truly missed you. I have a proposal. How would you like to marry me? I am not immortal, I won’t live forever, and one day all this can be yours.”</p><span class="ezoic-autoinsert-ad ezoic-incontent_15"></span>
+<p>“Well thank you, Comrade,” said Lizzy taken aback. “That’s a most generous offer, and my heart is truly touched. I do hope you won’t be offended if I say that one day I do hope to marry a young man, and so if you will be so gracious, please accept my most humble refusal.”</p><span class="ezoic-autoinsert-ad ezoic-incontent_15"></span>
+<p>“It was just a passing thought,” said Comrade Gatsby. “I am not at all offended. In fact, I think it is to your credit that you are not greedy for this fine house and all the gold and valuable jewels and works of art contained within. Another girl might give a very different answer. Since you are so honest, I have a second proposal. How would you like to have the cottage at the end of the garden? It can be yours for life, and if you marry a young man who is true to you, you can live there with him.”</p>
+<p>“Oh thank you Comrade, you are so very generous and kind. That would be my dream and would make me happy for all my days.”</p>
+<p>And so Lizzy went to live in the cottage at the end of the garden, and continued to work as housekeeper and nurse for the cats in the big mansion. A year later she married her childhood sweetheart who came to live with her in the cottage and helped her look after the commune of cats. They had six children and lived happily for all their days, while her step sister Maddy married a rich lawyer for his money and moved to the big city but the only person she ever loved was herself, and she always especially hated cats. </p>
+<p>And that was the Cat Commune.<br>
+Written by Bertie, loosely based on a traditional story.<br>
+For now, from me Richard Scott, at Storynory.com, goodbye.</p>
+</div>
+<div class="u ov-hidden ezoic ">
+<span id="ezoic-pub-ad-placeholder-146" class="banner center box-tiny-top-bottom"></span><span style="display:block !important;float:none !important;margin-bottom:10px !important;margin-left:0px !important;margin-right:0px !important;margin-top:10px !important;min-height:100px;text-align:center !important;" class="ezoic-ad leader-1 adtester-container adtester-container-146" data-ez-name="storynory_com-leader-1"><span id="div-gpt-ad-storynory_com-leader-1-0" ezaw="320" ezah="100" style="position:relative;z-index:0;display:inline-block;min-height:100px;min-width:320px;" class="ezoic-ad ezoic-adl"><script data-ezscrex="false" data-cfasync="false" type="text/javascript" style="display:none;">eval(ez_write_tag([[320,100],'storynory_com-leader-1','ezslot_5',146,'0','0']));</script></span></span>
+</div></div>
+</div>
+<div class="u panel">
+<div class="box-tiny ov-hidden panel-body ">
+<div class="bk-yellow box-tiny panel-body ov-hidden">
+<div class="width-370">
+<div class="box-tiny-top-bottom width-336 ov-hidden">
+<div class="one-whole bk-yellow">
+<form id="search1" class=" g-m fancy" action="/" method="get">
+<input class="box-tiny p-large u-m input-focus brd-green rounded-left fancy one-whole" type="text" name="s" placeholder="搜索故事" onfocus="this.placeholder = ' '">
+<div onclick="document.getElementById('search1').submit()" class="u-m box-mini-right-left  box-flush-left bk-green rounded-right txt-center ">
+<span class=" box-mini-left center icon-search btn clr-yellow "></span>
+</div>
+</form>
+</div> </div>
+<div class="bk-white rounded brd-green ov-hidden">
+<h2 class="bk-green  clr-yellow box-mini box-flush-bottom txt-center"> <b class="icon clr-yellow icon-direction"></b><a class="clr-yellow" href="/category/original/stories/">All Stories</a></h2>
+<div class="p-small">
+</div>
+<nav class="ov-hidden  ">
+<ul class="box-mini-right-left">
+<li class="box-tiny-bottom center ov-hidden one-whole fancy">
+<a class="ov-hidden center one-whole" href="https://www.storynory.com/gilgamesh-part-6-the-plant-of-immortaliy/">
+<h3 class="txt-center box-mini-top">Gilgamesh Part 6 – The Plant of Immortality</h3>
+<img width="200" height="128" src="https://www.storynory.com/wp-content/uploads/2020/05/plant-of-ever-lasting-youth-200x128.jpg" class="attachment-small size-small wp-post-image" alt="吉尔伽美什（Gilgamesh）坐在海边，沉思着蛇，偷偷溜走了永生的植物。 Bertie的插图" srcset="https://www.storynory.com/wp-content/uploads/2020/05/plant-of-ever-lasting-youth-200x128.jpg 200w, https://www.storynory.com/wp-content/uploads/2020/05/plant-of-ever-lasting-youth-600x385.jpg 600w, https://www.storynory.com/wp-content/uploads/2020/05/plant-of-ever-lasting-youth-768x493.jpg 768w, https://www.storynory.com/wp-content/uploads/2020/05/plant-of-ever-lasting-youth.jpg 999w" sizes="(max-width: 200px) 100vw, 200px" data-pagespeed-url-hash="1082822989" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" style=""></a>
+</li>
+<li class="box-tiny-top-bottom ov-hidden">
+<div class="u ov-hidden ezoic">
+<span id="ezoic-pub-ad-placeholder-184" class="sq center" data-ezadblocked="true"></span>
+</div>
+</li>
+<span id="ezoic-pub-ad-placeholder-658" class="ezoic-adpicker-ad" data-ezadpicker="658" data-ez-position-type="longest_content"></span><span style="display:block !important;float:none;margin-bottom:20px !important;margin-left:0px !important;margin-right:0px !important;margin-top:20px !important;min-height:250px;text-align:center !important;" class="ezoic-ad large-leaderboard-2 adtester-container adtester-container-658" data-ez-name="storynory_com-large-leaderboard-2"><span id="div-gpt-ad-storynory_com-large-leaderboard-2-0" ezaw="300" ezah="250" style="position:relative;z-index:0;display:inline-block;min-height:250px;min-width:300px;" class="ezoic-ad"><script data-ezscrex="false" data-cfasync="false" type="text/javascript" style="display:none;">eval(ez_write_tag([[300,250],'storynory_com-large-leaderboard-2','ezslot_10',658,'0','0']));</script></span></span><li class="box-tiny-bottom center ov-hidden one-whole fancy">
+<a class="ov-hidden center one-whole" href="https://www.storynory.com/in-early-may/">
+<h3 class="txt-center box-mini-top">In Early May</h3>
+<img width="200" height="200" src="https://www.storynory.com/wp-content/uploads/2020/05/may-image-200x200.jpg" class="attachment-small size-small wp-post-image" alt="五月" srcset="https://www.storynory.com/wp-content/uploads/2020/05/may-image-200x200.jpg 200w, https://www.storynory.com/wp-content/uploads/2020/05/may-image-100x100.jpg 100w, https://www.storynory.com/wp-content/uploads/2020/05/may-image-600x600.jpg 600w, https://www.storynory.com/wp-content/uploads/2020/05/may-image-768x768.jpg 768w, https://www.storynory.com/wp-content/uploads/2020/05/may-image-1200x1200.jpg 1200w, https://www.storynory.com/wp-content/uploads/2020/05/may-image-300x300.jpg 300w" sizes="(max-width: 200px) 100vw, 200px" data-pagespeed-url-hash="851698816" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" style=""></a>
+</li>
+<li class="box-tiny-top-bottom ov-hidden">
+<div class="u ov-hidden ezoic">
+<span id="ezoic-pub-ad-placeholder-185" class="sq center"></span><span style="display:block !important;float:none;margin-bottom:20px !important;margin-left:0px !important;margin-right:0px !important;margin-top:20px !important;min-height:250px;text-align:center !important;" class="ezoic-ad box-1 adtester-container adtester-container-185" data-ez-name="storynory_com-box-1"><span id="div-gpt-ad-storynory_com-box-1-0" ezaw="300" ezah="250" style="position:relative;z-index:0;display:inline-block;min-height:250px;min-width:300px;" class="ezoic-ad ezoic-adl"><script data-ezscrex="false" data-cfasync="false" type="text/javascript" style="display:none;">eval(ez_write_tag([[300,250],'storynory_com-box-1','ezslot_6',185,'0','0']));</script></span></span>
+</div>
+</li>
+<li class="box-tiny-bottom center ov-hidden one-whole fancy">
+<a class="ov-hidden center one-whole" href="https://www.storynory.com/the-spy-who-never-was-part-2/">
+<h3 class="txt-center box-mini-top">The Spy Who Never Was Part 2</h3>
+<img width="200" height="150" src="https://www.storynory.com/wp-content/uploads/2020/04/moscow-200x150.jpg" class="attachment-small size-small wp-post-image" alt="杰夫叔叔在莫斯科红场" srcset="https://www.storynory.com/wp-content/uploads/2020/04/moscow-200x150.jpg 200w, https://www.storynory.com/wp-content/uploads/2020/04/moscow-600x450.jpg 600w, https://www.storynory.com/wp-content/uploads/2020/04/moscow-768x576.jpg 768w, https://www.storynory.com/wp-content/uploads/2020/04/moscow-1200x900.jpg 1200w" sizes="(max-width: 200px) 100vw, 200px" data-pagespeed-url-hash="2711923076" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" style=""></a>
+</li>
+<li class="box-tiny-top-bottom ov-hidden">
+<div class="u ov-hidden ezoic">
+<span id="ezoic-pub-ad-placeholder-186" class="sq center"></span><span style="display:block !important;float:none !important;margin-bottom:10px !important;margin-left:0px !important;margin-right:0px !important;margin-top:10px !important;min-height:100px;text-align:center !important;" class="ezoic-ad large-billboard-2 adtester-container adtester-container-186" data-ez-name="storynory_com-large-billboard-2"><span id="div-gpt-ad-storynory_com-large-billboard-2-0" ezaw="320" ezah="100" style="position:relative;z-index:0;display:inline-block;min-height:100px;min-width:320px;" class="ezoic-ad ezoic-adl"><script data-ezscrex="false" data-cfasync="false" type="text/javascript" style="display:none;">eval(ez_write_tag([[320,100],'storynory_com-large-billboard-2','ezslot_9',186,'0','0']));</script></span></span>
+</div>
+</li>
+<li class="box-tiny-bottom center ov-hidden one-whole fancy">
+<a class="ov-hidden center one-whole" href="https://www.storynory.com/the-spy-who-never-was/">
+<h3 class="txt-center box-mini-top">The Spy Who Never Was</h3>
+<img width="200" height="150" src="https://www.storynory.com/wp-content/uploads/2020/04/wicked-uncle-skateboard-200x150.jpg" class="attachment-small size-small wp-post-image" alt="邪恶的叔叔在滑板上" srcset="https://www.storynory.com/wp-content/uploads/2020/04/wicked-uncle-skateboard-200x150.jpg 200w, https://www.storynory.com/wp-content/uploads/2020/04/wicked-uncle-skateboard-600x450.jpg 600w, https://www.storynory.com/wp-content/uploads/2020/04/wicked-uncle-skateboard-768x576.jpg 768w, https://www.storynory.com/wp-content/uploads/2020/04/wicked-uncle-skateboard-1200x900.jpg 1200w" sizes="(max-width: 200px) 100vw, 200px" data-pagespeed-url-hash="4291574944" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" style=""></a>
+</li>
+<li class="box-tiny-top-bottom ov-hidden">
+<div class="u ov-hidden ezoic">
+<span id="ezoic-pub-ad-placeholder-187" class="sq center"></span><span style="background:0 0 !important;display:block !important;float:none !important;margin-left:auto !important;margin-right:auto !important;min-height:100px;text-align:center !important;width:;" class="ezoic-ad banner-2 adtester-container adtester-container-187 ezoic-ad-adaptive" data-ez-name="storynory_com-banner-2"><span style="display:block !important;float:none !important;margin-bottom:10px !important;margin-left:0px !important;margin-right:0px !important;margin-top:10px !important;min-height:50px;text-align:center !important;" class="ezoic-ad banner-2 adtester-container adtester-container-187" data-ez-name="storynory_com-banner-2"><span id="div-gpt-ad-storynory_com-banner-2-0" ezaw="320" ezah="50" style="position:relative;z-index:0;display:inline-block;min-height:50px;min-width:320px;" class="ezoic-ad"><script data-ezscrex="false" data-cfasync="false" type="text/javascript" style="display:none;">eval(ez_write_tag([[320,50],'storynory_com-banner-2','ezslot_3',187,'0','0']));</script></span></span><span style="display:block !important;float:none !important;margin-bottom:10px !important;margin-left:0px !important;margin-right:0px !important;margin-top:10px !important;min-height:50px;text-align:center !important;" class="ezoic-ad banner-2 adtester-container adtester-container-187" data-ez-name="storynory_com-banner-2"><span id="div-gpt-ad-storynory_com-banner-2-0_1" ezaw="320" ezah="50" style="position:relative;z-index:0;display:inline-block;min-height:50px;min-width:320px;" class="ezoic-ad"><script data-ezscrex="false" data-cfasync="false" type="text/javascript" style="display:none;">eval(ez_write_tag([[320,50],'storynory_com-banner-2','ezslot_4',187,'0','1']));</script></span></span></span>
+</div>
+</li>
+<li class="box-tiny-bottom center ov-hidden one-whole fancy">
+<a class="ov-hidden center one-whole" href="https://www.storynory.com/dont-worry-little-crab/">
+<h3 class="txt-center box-mini-top">Don’t Worry Little Crab</h3>
+<img width="200" height="200" src="https://www.storynory.com/wp-content/uploads/2020/04/crab-cover-600-200x200.jpg" class="attachment-small size-small wp-post-image" alt="" srcset="https://www.storynory.com/wp-content/uploads/2020/04/crab-cover-600-200x200.jpg 200w, https://www.storynory.com/wp-content/uploads/2020/04/crab-cover-600-100x100.jpg 100w, https://www.storynory.com/wp-content/uploads/2020/04/crab-cover-600-300x300.jpg 300w, https://www.storynory.com/wp-content/uploads/2020/04/crab-cover-600.jpg 600w" sizes="(max-width: 200px) 100vw, 200px" data-pagespeed-url-hash="447790235" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" style=""></a>
+</li>
+<li class="box-tiny-top-bottom fancy p-large txt-right"><a class="" href="/category/original/stories/">More like this …</a></li>
+</ul>
+</nav>
+</div>
+<div class="box-mini">
+<div class="u ov-hidden ezoic">
+<span id="ezoic-pub-ad-placeholder-188" class="sq center" data-ezadblocked="true"></span>
+</div></div>
+</div><div style="clear:both" id="ez-clearholder-narrow-sky-1"></div><span style="display:block;float:none;margin-bottom:2px !important;margin-left:0px !important;margin-right:0px !important;margin-top:2px !important;min-height:270px;text-align:center !important;" class="ezoic-ad narrow-sky-1 adtester-container adtester-container-711" data-ez-name="storynory_com-narrow-sky-1"><span id="div-gpt-ad-storynory_com-narrow-sky-1-0" ezaw="300" ezah="250" style="position:relative;z-index:0;display:inline-block;min-height:250px;min-width:300px;" class="ezoic-ad"><script data-ezscrex="false" data-cfasync="false" type="text/javascript" style="display:none;">eval(ez_write_tag([[300,250],'storynory_com-narrow-sky-1','ezslot_21',711,'0','0']));</script></span></span><span class="ezoic-autoinsert-ad ezoic-incontent_16"></span>
+</div><span class="ezoic-autoinsert-ad ezoic-incontent_16"></span>
+</div>
+</div>
+</div>
+<div class="page bk-white ov-hidden  ">
+<div id="respond" class="box-mini center bk-yellow ">
+<h2 class="fancy center clr-green txt-center">Leave a reply </h2>
+<div id="respond" class="comment-respond">
+<h3 id="reply-title" class="comment-reply-title"> <small><a rel="nofollow" id="cancel-comment-reply-link" href="/the-commune-of-cats/#respond" style="display:none;"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">取消评论</font></font></a></small></h3> <form action="https://www.storynory.com/wp-comments-post.php" method="post" id="commentform" class="box-mini brd-green">
+<p class="comment-notes">Did you like this story? Please write in English. Comments are moderated. </p><textarea id="comment" class="box-mini brd-green rounded one-whole" name="comment" placeholder="评论文字" cols="45" rows="8" aria-required="true"></textarea><input name="author" class="rounded box-mini brd-green one-whole" type="text" value="" size="30" placeholder="仅您的名字 ">
+<p class="comment-form-cookies-consent"><input id="wp-comment-cookies-consent" name="wp-comment-cookies-consent" type="checkbox" value="yes"><label for="wp-comment-cookies-consent">Save my name, email, and website in this browser for the next time I comment.</label></p>
+<p class="form-submit"></p><div class="box-tiny-top"><input name="submit" type="submit" id="submit" class="submit btn space-top clr-yellow a box-mini rounded clr-yellow box-wide bk-green  box-tiny center" value="Post comment"></div> <input type="hidden" name="comment_post_ID" value="27319" id="comment_post_ID">
+<input type="hidden" name="comment_parent" id="comment_parent" value="0">
+<p></p> </form>
+</div>
+<span id="ezoic-pub-ad-placeholder-660" class="ezoic-adpicker-ad" data-ezadpicker="660" data-ez-position-type="longest_content"></span></div><span class="ezoic-autoinsert-ad ezoic-incontent_16"></span></div>
+<div class="ov-hidden bk-white box-tiny box-flush-bottom ">
+</div>
+<div class="ov-hidden bk-white box-tiny-right-left">
+<ul class="box-mini-bottom relative break-word">
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-smiley"></span><div class="cf">
+<p>I love this story❤️</p>
+</div>
+<p><span class="clr-green"> Anonymous</span> —
+February 27, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-cool"></span><div class="cf">
+<p>I love this story❤️</p>
+</div>
+<p><span class="clr-green"> Iman</span> —
+February 27, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-cool2"></span><div class="cf">
+<p>so new and cool!<br>
+I love cats!</p>
+</div>
+<p><span class="clr-green"> lol</span> —
+February 27, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-cool2"></span><div class="cf">
+<p>Third comment 😂 and nice story</p>
+</div>
+<p><span class="clr-green"> YEET</span> —
+February 27, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-happy2"></span><div class="cf">
+<p>I love this story so much l love cats!<br>
+P.S.will you be making more atropup storys?</p><div style="clear:both" id="ez-clearholder-portrait-2"></div><span style="display:block;float:none;margin-bottom:2px !important;margin-left:0px !important;margin-right:0px !important;margin-top:2px !important;min-height:300px;text-align:center !important;" class="ezoic-ad portrait-2 adtester-container adtester-container-712" data-ez-name="storynory_com-portrait-2"><span id="div-gpt-ad-storynory_com-portrait-2-0" ezaw="336" ezah="280" style="position:relative;z-index:0;display:inline-block;min-height:280px;min-width:336px;" class="ezoic-ad ezoic-adl"><script data-ezscrex="false" data-cfasync="false" type="text/javascript" style="display:none;">eval(ez_write_tag([[336,280],'storynory_com-portrait-2','ezslot_29',712,'0','0']));</script></span></span><span class="ezoic-autoinsert-ad ezoic-incontent_17"></span>
+</div><span class="ezoic-autoinsert-ad ezoic-incontent_17"></span>
+<p><span class="clr-green"> Ava</span> —
+February 27, 2020
+</p><span class="ezoic-autoinsert-ad ezoic-incontent_17"></span>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-smiley"></span><div class="cf">
+<p>Im glad the cats got her because she wasn’t very nice. Love Lizzie, sweetie girl</p>
+</div>
+<p><span class="clr-green"> Jessifia</span> —
+February 28, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-happy2"></span><div class="cf">
+<p>MI FAVORITO ES A LIBRO</p>
+</div>
+<p><span class="clr-green"> ELLAC</span> —
+February 28, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-cool2"></span><div class="cf">
+<p>I LIKE IT IT IS A VERY GOOD STORY</p>
+</div>
+<p><span class="clr-green"> ELLA</span> —
+February 28, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-cool"></span><div class="cf">
+<p>Loved it. Love Lizzy. Keep writing new short stories. Sharing this now!</p>
+</div>
+<p><span class="clr-green"> Swati Joshi</span> —
+February 29, 2020
+</p><div style="clear:both" id="ez-clearholder-leader-3"></div><span style="display:block;float:none;margin-bottom:1px !important;margin-left:0px !important;margin-right:0px !important;margin-top:1px !important;min-height:70px;text-align:center !important;" class="ezoic-ad leader-3 adtester-container adtester-container-713" data-ez-name="storynory_com-leader-3"><span id="div-gpt-ad-storynory_com-leader-3-0" ezaw="320" ezah="50" style="position:relative;z-index:0;display:inline-block;min-height:50px;min-width:320px;" class="ezoic-ad ezoic-adl"><script data-ezscrex="false" data-cfasync="false" type="text/javascript" style="display:none;">eval(ez_write_tag([[320,50],'storynory_com-leader-3','ezslot_16',713,'0','0']));</script></span></span><span class="ezoic-autoinsert-ad ezoic-incontent_18"></span>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-happy"></span><div class="cf">
+<p>Yes, because my home haven’t<br>
+cat. It enjoys happy atmosphere. It looks cute cat.</p><span class="ezoic-autoinsert-ad ezoic-incontent_18"></span>
+</div><span class="ezoic-autoinsert-ad ezoic-incontent_18"></span>
+<p><span class="clr-green"> Jupiter</span> —
+March 1, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-happy2"></span><div class="cf">
+<p>Very catty</p>
+</div>
+<p><span class="clr-green"> Eternal_Cookie87</span> —
+March 1, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-cool2"></span><div class="cf">
+<p>I love this story!</p>
+</div>
+<p><span class="clr-green"> Eternal_Cookie87</span> —
+March 1, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-cool2"></span><div class="cf">
+<p>Good story!</p>
+</div>
+<p><span class="clr-green"> DJ</span> —
+March 2, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-smiley"></span><div class="cf">
+<p>I loved this story and I love cats! And my birthday is soon so this is awesome!!!</p>
+</div>
+<p><span class="clr-green"> Gavin</span> —
+March 2, 2020
+</p><span class="ezoic-autoinsert-ad ezoic-incontent_19"></span>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-smiley"></span><div class="cf">
+<p>wow I like cartoon cats like garfilled</p><span class="ezoic-autoinsert-ad ezoic-incontent_19"></span>
+</div><span class="ezoic-autoinsert-ad ezoic-incontent_19"></span>
+<p><span class="clr-green"> ninjago</span> —
+March 2, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-happy2"></span><div class="cf">
+<p>I love story❤❤❤❤❤😍😍😍😍😍😍💕</p>
+</div>
+<p><span class="clr-green"> Lê</span> —
+March 2, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-cool2"></span><div class="cf">
+<p>This story is awesome</p>
+</div>
+<p><span class="clr-green"> Dominic</span> —
+March 2, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-wink"></span><div class="cf">
+<p>I like this story like I like cats (not alot) The plot is a bit weird and some of the events do not follow the main plot</p>
+</div>
+<p><span class="clr-green"> Alex</span> —
+March 3, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-happy"></span><div class="cf">
+<p>What a detailed story! I love it, it was so interesting to read! I’m going to suggest this to my friends and make sure this story is more popular.</p><span class="ezoic-autoinsert-ad ezoic-incontent_20"></span>
+</div><span class="ezoic-autoinsert-ad ezoic-incontent_20"></span>
+<p><span class="clr-green"> Anonymous</span> —
+March 3, 2020
+</p><span class="ezoic-autoinsert-ad ezoic-incontent_20"></span>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-wink"></span><div class="cf">
+<p>Very nice.I ecspecially loved the part where the cats drove Maddie away.</p>
+</div>
+<p><span class="clr-green"> LOVELY STORY READER</span> —
+March 3, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-cool2"></span><div class="cf">
+<p>I love it. Lizzy is so sweet</p>
+</div>
+<p><span class="clr-green"> Dibora</span> —
+March 3, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-happy2"></span><div class="cf">
+<p>love</p>
+</div>
+<p><span class="clr-green"> tahnnia</span> —
+March 3, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-cool"></span><div class="cf">
+<p>I love this story</p>
+</div>
+<p><span class="clr-green"> ###</span> —
+March 4, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-smiley"></span><div class="cf">
+<p>good</p><div style="clear:both" id="ez-clearholder-small-rectangle-1"></div><span style="display:block;float:none;margin-bottom:1px !important;margin-left:0px !important;margin-right:0px !important;margin-top:1px !important;min-height:120px;text-align:center !important;" class="ezoic-ad small-rectangle-1 adtester-container adtester-container-716" data-ez-name="storynory_com-small-rectangle-1"><span id="div-gpt-ad-storynory_com-small-rectangle-1-0" ezaw="320" ezah="100" style="position:relative;z-index:0;display:inline-block;min-height:100px;min-width:320px;" class="ezoic-ad ezoic-adl"><script data-ezscrex="false" data-cfasync="false" type="text/javascript" style="display:none;">eval(ez_write_tag([[320,100],'storynory_com-small-rectangle-1','ezslot_36',716,'0','0']));</script></span></span><span class="ezoic-autoinsert-ad ezoic-incontent_21"></span>
+</div><span class="ezoic-autoinsert-ad ezoic-incontent_21"></span>
+<p><span class="clr-green"> Anonymous</span> —
+March 4, 2020
+</p><span class="ezoic-autoinsert-ad ezoic-incontent_21"></span>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-wink"></span><div class="cf">
+<p>ok thats the cool story</p>
+</div>
+<p><span class="clr-green"> joe</span> —
+March 4, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-cool"></span><div class="cf">
+<p>Wowww this is so good. It there any other stories coming very soon for us?</p>
+</div>
+<p><span class="clr-green"> Chesssiemoonriver_1243</span> —
+March 5, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-happy2"></span><div class="cf">
+<p>very cattyy but super good story</p>
+</div>
+<p><span class="clr-green"> BY AVERI S</span> —
+March 5, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-happy2"></span><div class="cf">
+<p>nice and funny</p>
+</div>
+<p><span class="clr-green"> ricardo</span> —
+March 5, 2020
+</p><div style="clear:both" id="ez-clearholder-large-mobile-banner-1"></div><span style="background:0 0 !important;display:block !important;float:none;margin-left:auto !important;margin-right:auto !important;min-height:120px;text-align:center !important;width:;" class="ezoic-ad large-mobile-banner-1 adtester-container adtester-container-717 ezoic-ad-adaptive" data-ez-name="storynory_com-large-mobile-banner-1"><span style="display:block;float:none;margin-bottom:1px !important;margin-left:0px !important;margin-right:0px !important;margin-top:1px !important;min-height:70px;text-align:center !important;" class="ezoic-ad large-mobile-banner-1 adtester-container adtester-container-717" data-ez-name="storynory_com-large-mobile-banner-1"><span id="div-gpt-ad-storynory_com-large-mobile-banner-1-0" ezaw="320" ezah="50" style="position:relative;z-index:0;display:inline-block;min-height:50px;min-width:320px;" class="ezoic-ad ezoic-adl"><script data-ezscrex="false" data-cfasync="false" type="text/javascript" style="display:none;">eval(ez_write_tag([[320,50],'storynory_com-large-mobile-banner-1','ezslot_12',717,'0','0']));</script></span></span><span style="display:block;float:none;margin-bottom:1px !important;margin-left:0px !important;margin-right:0px !important;margin-top:1px !important;min-height:70px;text-align:center !important;" class="ezoic-ad large-mobile-banner-1 adtester-container adtester-container-717" data-ez-name="storynory_com-large-mobile-banner-1"><span id="div-gpt-ad-storynory_com-large-mobile-banner-1-0_1" ezaw="320" ezah="50" style="position:relative;z-index:0;display:inline-block;min-height:50px;min-width:320px;" class="ezoic-ad ezoic-adl"><script data-ezscrex="false" data-cfasync="false" type="text/javascript" style="display:none;">eval(ez_write_tag([[320,50],'storynory_com-large-mobile-banner-1','ezslot_13',717,'0','1']));</script></span></span></span><span class="ezoic-autoinsert-ad ezoic-incontent_22"></span>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-cool"></span><div class="cf">
+<p>So good</p><span class="ezoic-autoinsert-ad ezoic-incontent_22"></span>
+</div><span class="ezoic-autoinsert-ad ezoic-incontent_22"></span>
+<p><span class="clr-green"> Anonymous</span> —
+March 5, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-happy2"></span><div class="cf">
+<p>like the story March 5 2020</p>
+</div>
+<p><span class="clr-green"> jamie</span> —
+March 5, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-happy"></span><div class="cf">
+<p>i did love the story because i love cats to and there are so love in the story that it mads me cry because Maddy is so furious with them</p>
+</div>
+<p><span class="clr-green"> Anonymous</span> —
+March 6, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-happy2"></span><div class="cf">
+<p>Storie is so good!!!! More please?</p>
+</div>
+<p><span class="clr-green"> Win yang</span> —
+March 6, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-smiley"></span><div class="cf">
+<p>This is hilarious! Maddy has no manners tut tut</p><div style="clear:both" id="ez-clearholder-leader-4"></div><span style="display:block;float:none;margin-bottom:2px !important;margin-left:0px !important;margin-right:0px !important;margin-top:2px !important;min-height:300px;text-align:center !important;" class="ezoic-ad leader-4 adtester-container adtester-container-718" data-ez-name="storynory_com-leader-4"><span id="div-gpt-ad-storynory_com-leader-4-0" ezaw="336" ezah="280" style="position:relative;z-index:0;display:inline-block;min-height:280px;min-width:336px;" class="ezoic-ad"><script data-ezscrex="false" data-cfasync="false" type="text/javascript" style="display:none;">eval(ez_write_tag([[336,280],'storynory_com-leader-4','ezslot_17',718,'0','0']));</script></span></span><span class="ezoic-autoinsert-ad ezoic-incontent_23"></span>
+</div><span class="ezoic-autoinsert-ad ezoic-incontent_23"></span>
+<p><span class="clr-green"> Silvia</span> —
+March 6, 2020
+</p><span class="ezoic-autoinsert-ad ezoic-incontent_23"></span>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-smiley"></span><div class="cf">
+<p>I have never read this book 📚</p>
+</div>
+<p><span class="clr-green"> Alexa</span> —
+March 6, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-smiley"></span><div class="cf">
+<p>how beautiful, I loved her. I like cats, but the plot is sometimes lost</p>
+</div>
+<p><span class="clr-green"> ADRIANA CAROLINA RODRIGUEZ CERA</span> —
+March 6, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-happy"></span><div class="cf">
+<p>When is there going to be a new story that is good like astro pup or wicked uncle</p>
+</div>
+<p><span class="clr-green"> Alex</span> —
+March 8, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-cool"></span><div class="cf">
+<p>Hearing that story made me want to buy a cat today! like, it was one of the best storys I’ve ever heard!</p><div style="clear:both" id="ez-clearholder-sky-1"></div><span style="display:block;float:none;margin-bottom:1px !important;margin-left:0px !important;margin-right:0px !important;margin-top:1px !important;min-height:120px;text-align:center !important;" class="ezoic-ad sky-1 adtester-container adtester-container-719" data-ez-name="storynory_com-sky-1"><span id="div-gpt-ad-storynory_com-sky-1-0" ezaw="320" ezah="100" style="position:relative;z-index:0;display:inline-block;min-height:100px;min-width:320px;" class="ezoic-ad"><script data-ezscrex="false" data-cfasync="false" type="text/javascript" style="display:none;">eval(ez_write_tag([[320,100],'storynory_com-sky-1','ezslot_30',719,'0','0']));</script></span></span><span class="ezoic-autoinsert-ad ezoic-incontent_24"></span>
+</div><span class="ezoic-autoinsert-ad ezoic-incontent_24"></span>
+<p><span class="clr-green"> Gabriela</span> —
+March 8, 2020
+</p><span class="ezoic-autoinsert-ad ezoic-incontent_24"></span>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-happy"></span><div class="cf">
+<p>Fabulous story 😁</p>
+</div>
+<p><span class="clr-green"> Anonymous</span> —
+March 8, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-cool2"></span><div class="cf">
+<p>i love this story i wish i was in it</p>
+</div>
+<p><span class="clr-green"> shamari</span> —
+March 9, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-smiley"></span><div class="cf">
+<p>I love it.its so nice</p>
+</div>
+<p><span class="clr-green"> Abuyaser</span> —
+March 9, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-happy"></span><div class="cf">
+<p>very entertaining and quite interesting</p>
+</div>
+<p><span class="clr-green"> Ruby (9 years old)</span> —
+March 9, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-wink"></span><div class="cf">
+<p>I ❤️ this story. It’s so good.</p><div style="clear:both" id="ez-clearholder-sky-2"></div><span style="display:block;float:none;margin-bottom:1px !important;margin-left:0px !important;margin-right:0px !important;margin-top:1px !important;min-height:70px;text-align:center !important;" class="ezoic-ad sky-2 adtester-container adtester-container-720" data-ez-name="storynory_com-sky-2"><span id="div-gpt-ad-storynory_com-sky-2-0" ezaw="320" ezah="50" style="position:relative;z-index:0;display:inline-block;min-height:50px;min-width:320px;" class="ezoic-ad ezoic-adl"><script data-ezscrex="false" data-cfasync="false" type="text/javascript" style="display:none;">eval(ez_write_tag([[320,50],'storynory_com-sky-2','ezslot_31',720,'0','0']));</script></span></span><span class="ezoic-autoinsert-ad ezoic-incontent_25"></span>
+</div><span class="ezoic-autoinsert-ad ezoic-incontent_25"></span>
+<p><span class="clr-green"> Anonymous</span> —
+March 9, 2020
+</p><span class="ezoic-autoinsert-ad ezoic-incontent_25"></span>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-cool"></span><div class="cf">
+<p>this story is so cool I love it</p>
+</div>
+<p><span class="clr-green"> Louise</span> —
+March 10, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-cool2"></span><div class="cf">
+<p>i like this story but is very long</p>
+</div>
+<p><span class="clr-green"> Anonymous</span> —
+March 10, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-smiley"></span><div class="cf">
+<p>This is one of the best story’s on story nory ever , you should make this a series</p>
+</div>
+<p><span class="clr-green"> Kendal</span> —
+March 10, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-happy"></span><div class="cf">
+<p>This should be a series , it’s one of the best story’s on story nory 😀</p>
+</div>
+<p><span class="clr-green"> Kendal</span> —
+March 10, 2020
+</p><span class="ezoic-autoinsert-ad ezoic-incontent_26"></span>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-wink"></span><div class="cf">
+<p>I don’t like cat…<br>
+But this story are very beautiful.</p><span class="ezoic-autoinsert-ad ezoic-incontent_26"></span>
+</div><span class="ezoic-autoinsert-ad ezoic-incontent_26"></span>
+<p><span class="clr-green"> Ema Di Do</span> —
+March 10, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-happy2"></span><div class="cf">
+<p>very long</p>
+</div>
+<p><span class="clr-green"> Anonymous</span> —
+March 10, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-happy"></span><div class="cf">
+<p>So goooood I loved it. Make more like this thank you </p>
+</div>
+<p><span class="clr-green"> Anonymous</span> —
+March 10, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-happy"></span><div class="cf">
+<p>goodddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd</p>
+</div>
+<p><span class="clr-green"> jaylah</span> —
+March 10, 2020
+</p><div style="clear:both" id="ez-clearholder-netboard-1"></div><span style="display:block;float:none;margin-bottom:2px !important;margin-left:0px !important;margin-right:0px !important;margin-top:2px !important;min-height:300px;text-align:center !important;" class="ezoic-ad netboard-1 adtester-container adtester-container-722" data-ez-name="storynory_com-netboard-1"><span id="div-gpt-ad-storynory_com-netboard-1-0" ezaw="336" ezah="280" style="position:relative;z-index:0;display:inline-block;min-height:280px;min-width:336px;" class="ezoic-ad ezoic-adl"><script data-ezscrex="false" data-cfasync="false" type="text/javascript" style="display:none;">eval(ez_write_tag([[336,280],'storynory_com-netboard-1','ezslot_24',722,'0','0']));</script></span></span><span class="ezoic-autoinsert-ad ezoic-incontent_27"></span>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-happy2"></span><div class="cf">
+<p>i do NOT NOW</p><span class="ezoic-autoinsert-ad ezoic-incontent_27"></span>
+</div><span class="ezoic-autoinsert-ad ezoic-incontent_27"></span>
+<p><span class="clr-green"> Gabrielle</span> —
+March 10, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-cool2"></span><div class="cf">
+<p>i love cats</p>
+</div>
+<p><span class="clr-green"> Gabrielle</span> —
+March 10, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-cool"></span><div class="cf">
+<p>I like the story a lot!</p>
+</div>
+<p><span class="clr-green"> Anonymous</span> —
+March 10, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-smiley"></span><div class="cf">
+<p>this was the sadest book I have ever seen and I wrote this book in class</p>
+</div>
+<p><span class="clr-green"> Anonymous</span> —
+March 10, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-happy2"></span><div class="cf">
+<p>I love this story. I agreed that Maddy really deserved the scratching and biting!</p>
+</div>
+<p><span class="clr-green"> Milianna</span> —
+March 11, 2020
+</p><div style="clear:both" id="ez-clearholder-portrait-1"></div><span style="display:block;float:none;margin-bottom:1px !important;margin-left:0px !important;margin-right:0px !important;margin-top:1px !important;min-height:120px;text-align:center !important;" class="ezoic-ad portrait-1 adtester-container adtester-container-723" data-ez-name="storynory_com-portrait-1"><span id="div-gpt-ad-storynory_com-portrait-1-0" ezaw="320" ezah="100" style="position:relative;z-index:0;display:inline-block;min-height:100px;min-width:320px;" class="ezoic-ad"><script data-ezscrex="false" data-cfasync="false" type="text/javascript" style="display:none;">eval(ez_write_tag([[320,100],'storynory_com-portrait-1','ezslot_28',723,'0','0']));</script></span></span><span class="ezoic-autoinsert-ad ezoic-incontent_28"></span>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-happy2"></span><div class="cf">
+<p>i love this story</p><span class="ezoic-autoinsert-ad ezoic-incontent_28"></span>
+</div><span class="ezoic-autoinsert-ad ezoic-incontent_28"></span>
+<p><span class="clr-green"> lnicco</span> —
+March 11, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-happy2"></span><div class="cf">
+<p>I love this story</p>
+</div>
+<p><span class="clr-green"> Nicco</span> —
+March 11, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-cool2"></span><div class="cf">
+<p>i love this story, so wonderfull !!!</p>
+</div>
+<p><span class="clr-green"> Vittoria</span> —
+March 11, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-cool2"></span><div class="cf">
+<p>This is very long</p>
+</div>
+<p><span class="clr-green"> Saa</span> —
+March 11, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-smiley"></span><div class="cf">
+<p>You spelled Gatsby wrong once, like Gatasby. Just so you know!</p>
+</div>
+<p><span class="clr-green"> Wallace</span> —
+March 12, 2020
+</p><div style="clear:both" id="ez-clearholder-large-mobile-banner-2"></div><span style="display:block;float:none;margin-bottom:1px !important;margin-left:0px !important;margin-right:0px !important;margin-top:1px !important;min-height:120px;text-align:center !important;" class="ezoic-ad large-mobile-banner-2 adtester-container adtester-container-724" data-ez-name="storynory_com-large-mobile-banner-2"><span id="div-gpt-ad-storynory_com-large-mobile-banner-2-0" ezaw="320" ezah="100" style="position:relative;z-index:0;display:inline-block;min-height:100px;min-width:320px;" class="ezoic-ad"><script data-ezscrex="false" data-cfasync="false" type="text/javascript" style="display:none;">eval(ez_write_tag([[320,100],'storynory_com-large-mobile-banner-2','ezslot_14',724,'0','0']));</script></span></span><span class="ezoic-autoinsert-ad ezoic-incontent_29"></span>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-wink"></span><div class="cf">
+<p>very much it was sick. and i love this story.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</p><span class="ezoic-autoinsert-ad ezoic-incontent_29"></span>
+</div><span class="ezoic-autoinsert-ad ezoic-incontent_29"></span>
+<p><span class="clr-green"> gwenna</span> —
+March 12, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-smiley"></span><div class="cf">
+<p>it was sick and i love this story it has a happy ending!!!!!!!!!!!!!</p>
+</div>
+<p><span class="clr-green"> gwenna</span> —
+March 12, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-wink"></span><div class="cf">
+<p>im not a fan but i kinda liked it</p>
+</div>
+<p><span class="clr-green"> Mariah</span> —
+March 12, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-cool2"></span><div class="cf">
+<p>i loved this 🙂</p>
+</div>
+<p><span class="clr-green"> Anonymous</span> —
+March 12, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-cool"></span><div class="cf">
+<p>i loved this 🙂</p>
+</div>
+<p><span class="clr-green"> Mariah</span> —
+March 12, 2020
+</p><span class="ezoic-autoinsert-ad ezoic-incontent_30"></span>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-cool2"></span><div class="cf">
+<p>ＭＥＯＷ (￣∀￣)</p><span class="ezoic-autoinsert-ad ezoic-incontent_30"></span>
+</div><span class="ezoic-autoinsert-ad ezoic-incontent_30"></span>
+<p><span class="clr-green"> skrt ( ͡° ͜ʖ ͡°)</span> —
+March 12, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-cool2"></span><div class="cf">
+<p>gret stry bertie pls respond</p>
+</div>
+<p><span class="clr-green"> &gt;﹏</span> —
+March 12, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<img class="left box-tiny box-flush-left" "="" src="data:image/webp;base64,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" data-pagespeed-url-hash="4290947782" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" style=""><div class="cf">
+<p>Thank you</p>
+</div>
+<p><span class="clr-green"> Jana Elizabeth</span> —
+March 13, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-smiley"></span><div class="cf">
+<p>Good story please respond!</p>
+</div>
+<p><span class="clr-green"> tyler</span> —
+March 12, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-happy2"></span><div class="cf">
+<p>Good story please respond!o_O</p>
+</div>
+<p><span class="clr-green"> tyler</span> —
+March 12, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<img class="left box-tiny box-flush-left" "="" src="data:image/webp;base64,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" data-pagespeed-url-hash="4290947782" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" style=""><div class="cf">
+<p>Thank you Tyler 😊</p>
+</div>
+<p><span class="clr-green"> Jana Elizabeth</span> —
+March 13, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-smiley"></span><div class="cf">
+<p>What was the new story for this week? raaaww ra</p>
+</div>
+<p><span class="clr-green"> Dragon (I'm a real dragon I don't want to make you😱😨)</span> —
+March 12, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-happy"></span><div class="cf">
+<p>very nice good job👍👌👌👌👌</p>
+</div>
+<p><span class="clr-green"> Anonymous</span> —
+March 12, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-happy"></span><div class="cf">
+<p>Yes I liked the story very very much it is a nice story to read.🥰</p>
+</div>
+<p><span class="clr-green"> Anonymous</span> —
+March 13, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-cool"></span><div class="cf">
+<p>gooooood</p>
+</div>
+<p><span class="clr-green"> Miky</span> —
+March 13, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-smiley"></span><div class="cf">
+<p>This story is the best story I’ve ever read</p>
+</div>
+<p><span class="clr-green"> -Olivia</span> —
+March 13, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-happy2"></span><div class="cf">
+<p>YOUR 😎A GOOOOOOOOOOOD 😜STORY TELLER😜. 👉🏻👌🏻</p>
+</div>
+<p><span class="clr-green"> Anonymous</span> —
+March 13, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-cool"></span><div class="cf">
+<p>I love this book !</p>
+</div>
+<p><span class="clr-green"> YuJia</span> —
+March 13, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-happy"></span><div class="cf">
+<p>I love this story❤️</p>
+</div>
+<p><span class="clr-green"> Lily-February 27, 2020</span> —
+March 14, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-happy2"></span><div class="cf">
+<p>cool</p>
+</div>
+<p><span class="clr-green"> Stefano</span> —
+March 14, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-cool"></span><div class="cf">
+<p>Coooooooool</p>
+</div>
+<p><span class="clr-green"> Stefano</span> —
+March 14, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-happy2"></span><div class="cf">
+<p>yes I like that story .</p>
+</div>
+<p><span class="clr-green"> Alvin</span> —
+March 15, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-wink"></span><div class="cf">
+<p>I LOVE CATS !!!!!!!!!!!</p>
+</div>
+<p><span class="clr-green"> HI</span> —
+March 15, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-smiley"></span><div class="cf">
+<p>Very good story👏👏:-)</p>
+</div>
+<p><span class="clr-green"> Ava</span> —
+March 16, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-happy"></span><div class="cf">
+<p>Very good story👏</p>
+</div>
+<p><span class="clr-green"> Ava</span> —
+March 16, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-happy"></span><div class="cf">
+<p>i like it but is not enough</p>
+</div>
+<p><span class="clr-green"> anonymous</span> —
+March 16, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-happy"></span><div class="cf">
+<p>These story was so cool and it touch my heart.</p>
+</div>
+<p><span class="clr-green"> conrad</span> —
+March 16, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-happy2"></span><div class="cf">
+<p>This story gave me a lesson: Don’t be lazy and be a respectful person. I like this story very much! Thank you for those of you who wrote and illustrated this story! I love it!!!!!!!!!!!</p>
+</div>
+<p><span class="clr-green"> Vivian</span> —
+March 16, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<img class="left box-tiny box-flush-left" "="" src="data:image/webp;base64,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" data-pagespeed-url-hash="4290947782" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" style=""><div class="cf">
+<p>Thanks Vivian</p>
+</div>
+<p><span class="clr-green"> Jana Elizabeth</span> —
+March 17, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-cool2"></span><div class="cf">
+<p>I think this story us interesting. I like cats and pandas.</p>
+</div>
+<p><span class="clr-green"> Panda</span> —
+March 16, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-wink"></span><div class="cf">
+<p>Great story! I love cats!</p>
+</div>
+<p><span class="clr-green"> Fiona</span> —
+March 16, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-cool2"></span><div class="cf">
+<p>I love this story, thank you.</p>
+</div>
+<p><span class="clr-green"> zamfira</span> —
+March 16, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-happy2"></span><div class="cf">
+<p>cool.</p>
+</div>
+<p><span class="clr-green"> zamfira</span> —
+March 17, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-smiley"></span><div class="cf">
+<p>Hi I love this Jana woo</p>
+</div>
+<p><span class="clr-green"> Anonymous</span> —
+March 17, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-happy2"></span><div class="cf">
+<p>such a amazing story! my daughter loves it so much! From Lavenda Shanghai</p>
+</div>
+<p><span class="clr-green"> Anonymous</span> —
+March 17, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-smiley"></span><div class="cf">
+<p>I think Lizzy was very nice and sweet, but should not have told her sister a bunch of information about the cat’s house. I also noticed there were some words spelled wrong. Over all, the story was good. Thanks to the the author for making this!</p>
+</div>
+<p><span class="clr-green"> Ally</span> —
+March 17, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-cool"></span><div class="cf">
+<p>I realy love this story 🐱</p>
+</div>
+<p><span class="clr-green"> Rebecca</span> —
+March 17, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-wink"></span><div class="cf">
+<p>Thank you for posting this I really liked the cats and how Lizzy was generous and sweet and agin thank you for posting this!</p>
+</div>
+<p><span class="clr-green"> Maddy</span> —
+March 17, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-smiley"></span><div class="cf">
+<p>I love the story and I think Lizzy sister learned a lesson also I think Lizzy will be happy with her family.</p>
+</div>
+<p><span class="clr-green"> Kaleigh</span> —
+March 17, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-happy"></span><div class="cf">
+<p>This is a cool story. It’s super interesting.</p>
+</div>
+<p><span class="clr-green"> Tina</span> —
+March 17, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-happy"></span><div class="cf">
+<p>I loooooooooooooved it sooooo much thank you for entertaining me Richard and Jana </p>
+</div>
+<p><span class="clr-green"> Anonymous</span> —
+March 17, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-cool"></span><div class="cf">
+<p>I like this story</p>
+</div>
+<p><span class="clr-green"> snigdha</span> —
+March 17, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-wink"></span><div class="cf">
+<p>nice</p>
+</div>
+<p><span class="clr-green"> snigdha</span> —
+March 17, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-happy"></span><div class="cf">
+<p>I like this story because I love cats.</p>
+</div>
+<p><span class="clr-green"> Mariam F🦄</span> —
+March 18, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-cool"></span><div class="cf">
+<p>Best story ever!!!!!!!!!!!!!!<br>
+😁😁😁😁😁😁😁😁😁😁😁😁😁😁</p>
+</div>
+<p><span class="clr-green"> Anonymous</span> —
+March 18, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-cool"></span><div class="cf">
+<p>I lovvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvve this story</p>
+</div>
+<p><span class="clr-green"> Danny</span> —
+March 18, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-wink"></span><div class="cf">
+<p>I love the book and the cats</p>
+</div>
+<p><span class="clr-green"> SECRET</span> —
+March 18, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-smiley"></span><div class="cf">
+<p>I love this story! This is my first time using storynory! So far I love it!</p>
+</div>
+<p><span class="clr-green"> Unknown</span> —
+March 18, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-smiley"></span><div class="cf">
+<p>I love this! But it’s not enough, they should do a sequel. Overall I think it’s an awesome story!</p>
+</div>
+<p><span class="clr-green"> Talia</span> —
+March 18, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-happy"></span><div class="cf">
+<p>I really enjoyed this story, thanks! 🤗🥰</p>
+</div>
+<p><span class="clr-green"> Lea</span> —
+March 18, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-wink"></span><div class="cf">
+<p>Lovely job</p>
+</div>
+<p><span class="clr-green"> Anonymous</span> —
+March 18, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-happy"></span><div class="cf">
+<p>Yes i did</p>
+</div>
+<p><span class="clr-green"> ame</span> —
+March 18, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-cool"></span><div class="cf">
+<p>I love this story! I so BEAUTIFUL!!💛💚💙💜♥️💋💕💞💓💖</p>
+</div>
+<p><span class="clr-green"> Lola</span> —
+March 19, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-smiley"></span><div class="cf">
+<p>I wish I will be a kind hearted girl like Lizzy. Keep it up!</p>
+</div>
+<p><span class="clr-green"> Khaula</span> —
+March 19, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-wink"></span><div class="cf">
+<p>I love cats and this story<br>
+😻</p>
+</div>
+<p><span class="clr-green"> Mia</span> —
+March 19, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-cool"></span><div class="cf">
+<p>I love cats and this story</p>
+</div>
+<p><span class="clr-green"> Mia</span> —
+March 19, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-wink"></span><div class="cf">
+<p>OMGGGGG I love kittens</p>
+</div>
+<p><span class="clr-green"> Prajasya</span> —
+March 19, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-wink"></span><div class="cf">
+<p>I love this story! I so BEAUTIFUL!!💛💚💙💜♥️✨</p>
+</div>
+<p><span class="clr-green"> Lola</span> —
+March 19, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-cool2"></span><div class="cf">
+<p>It was a great story!</p>
+</div>
+<p><span class="clr-green"> Claire</span> —
+March 19, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-smiley"></span><div class="cf">
+<p>Great story!</p>
+</div>
+<p><span class="clr-green"> Jeff</span> —
+March 19, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-cool2"></span><div class="cf">
+<p>This is a great story!</p>
+</div>
+<p><span class="clr-green"> Tommy</span> —
+March 19, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-cool2"></span><div class="cf">
+<p>i love it</p>
+</div>
+<p><span class="clr-green"> Anonymous</span> —
+March 19, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-cool"></span><div class="cf">
+<p>Oh! Yes i love this storry.It is so good.And it would be my dream for sorry norry too make a part:2.And thank you ms.Guska my teacher 🙂</p>
+</div>
+<p><span class="clr-green"> Amelia</span> —
+March 19, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-wink"></span><div class="cf">
+<p>Ayyyyyyyyyyyyyyyyyyyyyyyyyyyyy</p>
+</div>
+<p><span class="clr-green"> Bois</span> —
+March 19, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-cool"></span><div class="cf">
+<p>Yes I like this story because I love cats</p>
+</div>
+<p><span class="clr-green"> Bin</span> —
+March 20, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-cool2"></span><div class="cf">
+<p>I like cats</p>
+</div>
+<p><span class="clr-green"> Anonymous</span> —
+March 20, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-smiley"></span><div class="cf">
+<p>it was really interesing plus it was kind of a social issue book and i really liked it and i was amazed that 103 families can live in only 28 rooms with 3 floors thats about 1485 square meters and in a forest/jungle</p>
+</div>
+<p><span class="clr-green"> guy840476hero675</span> —
+March 20, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-smiley"></span><div class="cf">
+<p>This story is so meaningful and enjoyable.. I admire cats but I never have one .my dream is to have a house full of cats and kittens I’ll name my first cat lizzy</p>
+</div>
+<p><span class="clr-green"> Anonymous</span> —
+March 20, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-cool"></span><div class="cf">
+<p>This story was really good!😁</p>
+</div>
+<p><span class="clr-green"> Someone</span> —
+March 20, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-cool"></span><div class="cf">
+<p>great story</p>
+</div>
+<p><span class="clr-green"> evan</span> —
+March 20, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-wink"></span><div class="cf">
+<p>The story is meow.</p>
+</div>
+<p><span class="clr-green"> Anonymous</span> —
+March 20, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-cool"></span><div class="cf">
+<p>I like the ending and story in general. 👍</p>
+</div>
+<p><span class="clr-green"> Joe</span> —
+March 20, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-smiley"></span><div class="cf">
+<p>This is awesome!</p>
+</div>
+<p><span class="clr-green"> Anonymous</span> —
+March 20, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-wink"></span><div class="cf">
+<p>This is the longest story ever. Even longer than the story Astropup. Its not bad, though. I kinda like it. Its not the greatest. It teaches a GREAT lesson though. Dont be lazy and be respectful. Those are 2 important things. I liked Lizzy a lot. Make more cat stories please. I also have another request. Make a horse story please. Thank You! Hi, Jana! Bye!</p>
+</div>
+<p><span class="clr-green"> Emmie Baxter</span> —
+March 20, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<img class="left box-tiny box-flush-left" "="" src="data:image/webp;base64,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" data-pagespeed-url-hash="4290947782" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" style=""><div class="cf">
+<p>Thank you Emmie 😊</p>
+</div>
+<p><span class="clr-green"> Jana Elizabeth</span> —
+March 20, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-happy2"></span><div class="cf">
+<p>Best story ever!</p>
+</div>
+<p><span class="clr-green"> Anonymous</span> —
+March 20, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-happy2"></span><div class="cf">
+<p>I don´t like the story.</p>
+</div>
+<p><span class="clr-green"> Anonymous</span> —
+March 21, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-cool2"></span><div class="cf">
+<p>I really like cats!</p>
+</div>
+<p><span class="clr-green"> anonymous</span> —
+March 21, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-wink"></span><div class="cf">
+<p>This was an incredible story! I would definitely read it again. I think the author did an amazing job with the details! Out of five stars I would rate this story five stars!❤️</p>
+</div>
+<p><span class="clr-green"> Anonymous</span> —
+March 21, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-wink"></span><div class="cf">
+<p>This was an incredible story! I would definitely read it again. I think the author did an amazing job with the details! Out of five stars I would rate this story five stars!❤️ 🌟🌟🌟🌟🌟</p>
+</div>
+<p><span class="clr-green"> Anonymous</span> —
+March 21, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-cool2"></span><div class="cf">
+<p>I LOVE,LIKE,AND TRULY LOVE CATS AND THIS STORY.</p>
+</div>
+<p><span class="clr-green"> CAITLIN</span> —
+March 21, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-wink"></span><div class="cf">
+<p>I like this story, too, I will read this again.</p>
+</div>
+<p><span class="clr-green"> Katrine</span> —
+March 22, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-happy"></span><div class="cf">
+<p>Good story! Go cats!</p>
+</div>
+<p><span class="clr-green"> #Emma z</span> —
+March 22, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-wink"></span><div class="cf">
+<p>nice story</p>
+</div>
+<p><span class="clr-green"> jesus</span> —
+March 22, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-smiley"></span><div class="cf">
+<p>have not read and allergic to animals even cat but I love them</p>
+</div>
+<p><span class="clr-green"> Le'Yonna</span> —
+March 22, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-happy"></span><div class="cf">
+<p>have not read and allergic to animals even cat but I love them</p>
+</div>
+<p><span class="clr-green"> Le</span> —
+March 22, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-happy2"></span><div class="cf">
+<p>that was a very good story</p>
+</div>
+<p><span class="clr-green"> Le</span> —
+March 22, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-smiley"></span><div class="cf">
+<p>Good</p>
+</div>
+<p><span class="clr-green"> Andre</span> —
+March 22, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-wink"></span><div class="cf">
+<p>it is Marvoulous!!!!!!!</p>
+</div>
+<p><span class="clr-green"> charlotte</span> —
+March 23, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-wink"></span><div class="cf">
+<p>it,s very good and i love cats</p>
+</div>
+<p><span class="clr-green"> leo</span> —
+March 23, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-cool2"></span><div class="cf">
+<p>I love the audio, the voices sound attractive!</p>
+</div>
+<p><span class="clr-green"> Anonymous</span> —
+March 23, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<img class="left box-tiny box-flush-left" "="" src="data:image/webp;base64,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" data-pagespeed-url-hash="4290947782" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" style=""><div class="cf">
+<p>Thank you!</p>
+</div>
+<p><span class="clr-green"> Jana Elizabeth</span> —
+March 23, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-cool"></span><div class="cf">
+<p>I like this book a lot I can pictures this story.</p>
+</div>
+<p><span class="clr-green"> izabelle</span> —
+March 23, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-wink"></span><div class="cf">
+<p>I loved this story it was so entertaining and so easy to read</p>
+</div>
+<p><span class="clr-green"> Gabriella</span> —
+March 23, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-cool"></span><div class="cf">
+<p>I CAN’T BELIVE THAT THERE WAS LIKE 1OO CAT’S!!!!! AND LIZZY’S STEP SISTER MADDY WAS SUPER MEAN TO THE CAT’S.</p>
+</div>
+<p><span class="clr-green"> LEAH!!</span> —
+March 23, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-smiley"></span><div class="cf">
+<p>Yes I like 🐱</p>
+</div>
+<p><span class="clr-green"> Naty</span> —
+March 23, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-cool"></span><div class="cf">
+<p>i love cats meow meow meow i give 100000000000000000000000000000000000000000000000000 stars for the story its because i love cats so much and i also like princesses</p>
+</div>
+<p><span class="clr-green"> emma</span> —
+March 23, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-happy"></span><div class="cf">
+<p>What a fantastic story! ! !🇨🇳🤩🤩🤩💐🌺🌸🌷🌹<br>
+It is a fabulous story I’ve been read! ! !<br>
+🐱🐱. 🐱🐱<br>
+🐱🐱🐱🐱🐱🐱<br>
+🐱🐱🐱🐱🐱🐱<br>
+🐱🐱🐱🐱🐱🐱🐱<br>
+🐱🐱🐱🐱🐱</p>
+</div>
+<p><span class="clr-green"> Claire</span> —
+March 24, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-cool2"></span><div class="cf">
+<p>I love this story 😀</p>
+</div>
+<p><span class="clr-green"> Kaylee</span> —
+March 24, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-wink"></span><div class="cf">
+<p>Love this story</p>
+</div>
+<p><span class="clr-green"> Amber~</span> —
+March 24, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-cool2"></span><div class="cf">
+<p>That was so good I love this story</p>
+</div>
+<p><span class="clr-green"> Isabella</span> —
+March 24, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-cool2"></span><div class="cf">
+<p>i love this story i love cats</p>
+</div>
+<p><span class="clr-green"> savanna</span> —
+March 25, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-happy2"></span><div class="cf">
+<p>I love it!! Thanks so much</p>
+</div>
+<p><span class="clr-green"> Erika</span> —
+March 25, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-happy2"></span><div class="cf">
+<p>I love this story that has cat and peoples in this story</p>
+</div>
+<p><span class="clr-green"> Jonathan</span> —
+March 25, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-cool"></span><div class="cf">
+<p>So nice I love this story!</p>
+</div>
+<p><span class="clr-green"> Issie</span> —
+March 25, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-wink"></span><div class="cf">
+<p>I. Love this. Story.</p>
+</div>
+<p><span class="clr-green"> Paris</span> —
+March 25, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-cool2"></span><div class="cf">
+<p>I. Love this. Story.😍🤩🥰🤩😍🤩🍑🍓😘😘😘😘😘😍🤩🥰😍🤩🤩😍🥰😘🤩🥰🥰🥰🤩🤩🤩😍😍🤩🤩🤩😍😍🥀🌹🥀🥀🌹🥀🥀🥀🌺🌸🌺💮💐🥰😍😍😍🤩🤩😘🥰😍😍🥀🌷🌷🌹💮🌼🌻🏵️🌸🌺</p>
+</div>
+<p><span class="clr-green"> Paris</span> —
+March 25, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-smiley"></span><div class="cf">
+<p>i love this story because i love cats so much and cats are so cute1!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! and i feel its also have somethiing same thing with the two sept sisters. but i like cats the most and i have a cat to!!!!!!</p>
+</div>
+<p><span class="clr-green"> emma</span> —
+March 25, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-cool"></span><div class="cf">
+<p>I loooooooooooooooooove this story</p>
+</div>
+<p><span class="clr-green"> Anonymous</span> —
+March 25, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-cool2"></span><div class="cf">
+<p>This is a very good story ❤️❤️❤️❤️❤️❤️</p>
+</div>
+<p><span class="clr-green"> Anonymous</span> —
+March 25, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-smiley"></span><div class="cf">
+<p>I loooooooooooooooooove this story</p>
+</div>
+<p><span class="clr-green"> Poop</span> —
+March 25, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-wink"></span><div class="cf">
+<p>I looooooooooooooooooooooooove this story</p>
+</div>
+<p><span class="clr-green"> Aly</span> —
+March 25, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-cool"></span><div class="cf">
+<p>So good i hope u make more story’s like this!</p>
+</div>
+<p><span class="clr-green"> Eternal_Cookie87</span> —
+March 25, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-wink"></span><div class="cf">
+<p>Cool</p>
+</div>
+<p><span class="clr-green"> Chara</span> —
+March 26, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-wink"></span><div class="cf">
+<p>it was amazing</p>
+</div>
+<p><span class="clr-green"> Esther</span> —
+March 26, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-happy2"></span><div class="cf">
+<p>I would like this story more if Lizzie was just a tad more strict.In the story we know that Maddy being strict made the house tidier, so if Lizzie was just a very little bit more strict, think of what could happen!Overall,I really liked it.:}</p>
+</div>
+<p><span class="clr-green"> OMG</span> —
+March 26, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-wink"></span><div class="cf">
+<p>I like Lizzy! I also love cats!</p>
+</div>
+<p><span class="clr-green"> Cara</span> —
+March 27, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-happy"></span><div class="cf">
+<p>Yes,I like this story</p>
+</div>
+<p><span class="clr-green"> Magx</span> —
+March 27, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-happy"></span><div class="cf">
+<p>This story is very very nice!</p>
+</div>
+<p><span class="clr-green"> Bella</span> —
+March 28, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-wink"></span><div class="cf">
+<p>I like this story because its a fantasy.❤️🤓</p>
+</div>
+<p><span class="clr-green"> St</span> —
+March 28, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-happy"></span><div class="cf">
+<p>Es bueno me ayudo mucho,is very good mi teacher recomended thanks</p>
+</div>
+<p><span class="clr-green"> Luis Eduardo</span> —
+March 28, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-cool2"></span><div class="cf">
+<p>love cats</p>
+</div>
+<p><span class="clr-green"> cat lover</span> —
+March 30, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-cool"></span><div class="cf">
+<p>i love the story it is good I like the way the way the girl was thinking she didn’t try to fool the cat just to get his money.</p>
+</div>
+<p><span class="clr-green"> jeremiah</span> —
+March 30, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-cool"></span><div class="cf">
+<p>Super Jana 😍👑</p>
+</div>
+<p><span class="clr-green"> Anonymous</span> —
+March 30, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-cool"></span><div class="cf">
+<p>I like the story because the happy ending.</p>
+</div>
+<p><span class="clr-green"> sophie</span> —
+March 31, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-wink"></span><div class="cf">
+<p>the cats ar best</p>
+</div>
+<p><span class="clr-green"> Antonia</span> —
+March 31, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-happy2"></span><div class="cf">
+<p>cats ar best</p>
+</div>
+<p><span class="clr-green"> Antonia</span> —
+March 31, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-wink"></span><div class="cf">
+<p>this is probably my favorite story in storynory.What great illustration.</p>
+</div>
+<p><span class="clr-green"> Amana</span> —
+March 31, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-happy"></span><div class="cf">
+<p>I really love this story! I can tell its very thought-out and creative! I’ve been listening to StoryNory for so long! Every night I listen to your guy’s variety of stories and their so fun to listen to!!! I love you so much Jana!!! I love your voice acting! 😊</p>
+</div>
+<p><span class="clr-green"> Poppy</span> —
+April 1, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<img class="left box-tiny box-flush-left" "="" src="data:image/webp;base64,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" data-pagespeed-url-hash="4290947782" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" style=""><div class="cf">
+<p>Thanks so much Poppy 😊</p>
+</div>
+<p><span class="clr-green"> Jana Elizabeth</span> —
+April 1, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-smiley"></span><div class="cf">
+<p>I love cats</p>
+</div>
+<p><span class="clr-green"> Miranda</span> —
+April 1, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-cool2"></span><div class="cf">
+<p>Lovely story full of action and excitement with the sounds and voices. Jana and Richard Rock! Is the next part coming soon, we’re waiting with baited breathe???</p>
+</div>
+<p><span class="clr-green"> Diedre and mike</span> —
+April 1, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-cool2"></span><div class="cf">
+<p>I love this story it’s so interesting.👌❤❤❤💕😊😊😊👏👏👏👏🎉🎉🎉🎉</p>
+</div>
+<p><span class="clr-green"> Anaya</span> —
+April 2, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-happy"></span><div class="cf">
+<p>i love this story😊🐱😻</p>
+</div>
+<p><span class="clr-green"> leah</span> —
+April 2, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-wink"></span><div class="cf">
+<p>The story was so good I loved it 😀</p>
+</div>
+<p><span class="clr-green"> Siya</span> —
+April 3, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-happy"></span><div class="cf">
+<p>I love this story so so match<br>
+I laern from this story</p>
+</div>
+<p><span class="clr-green"> Dhuha</span> —
+April 3, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-happy"></span><div class="cf">
+<p>I liked this story so so so much</p>
+</div>
+<p><span class="clr-green"> Taha</span> —
+April 4, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-cool"></span><div class="cf">
+<p>I enjoyed it, a bit too lengthy for the age group that I teach. I would do a shortened version.</p>
+</div>
+<p><span class="clr-green"> Pernel</span> —
+April 4, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-smiley"></span><div class="cf">
+<p>I did not know that cats can speak</p>
+</div>
+<p><span class="clr-green"> Miguel</span> —
+April 6, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-cool"></span><div class="cf">
+<p>I love this story 。 It is my 3rd fravaut story.</p>
+</div>
+<p><span class="clr-green"> Olivia</span> —
+April 6, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-wink"></span><div class="cf">
+<p>great story 😃</p>
+</div>
+<p><span class="clr-green"> Anonymous</span> —
+April 7, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-cool2"></span><div class="cf">
+<p>amazing</p>
+</div>
+<p><span class="clr-green"> Anonymous</span> —
+April 7, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-cool"></span><div class="cf">
+<p>This was so cute i liked it</p>
+</div>
+<p><span class="clr-green"> Deandre</span> —
+April 7, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-cool"></span><div class="cf">
+<p>I loved this story very much.Very wonderful and beautiful story.<br>
+We liked the story very much.</p>
+</div>
+<p><span class="clr-green"> Aloha</span> —
+April 8, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-cool"></span><div class="cf">
+<p>we liked the story very much. thank you very much for wonderful reading . enjoyed a lot</p>
+</div>
+<p><span class="clr-green"> Aloha</span> —
+April 8, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-happy2"></span><div class="cf">
+<p>I enjoyed this story very much!</p>
+</div>
+<p><span class="clr-green"> Bella</span> —
+April 9, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-smiley"></span><div class="cf">
+<p>I loved it! It was a very nice story.❤😊</p>
+</div>
+<p><span class="clr-green"> Anonymous..</span> —
+April 9, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-happy2"></span><div class="cf">
+<p>Lizzy was always honest and tell the truth. Lizzy had to stepsister that are mean to her and said that your dress is ugly.</p>
+</div>
+<p><span class="clr-green"> Anonymous</span> —
+April 10, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-cool"></span><div class="cf">
+<p>I love this story so much but I hate cats still great</p>
+</div>
+<p><span class="clr-green"> Harry</span> —
+April 10, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-smiley"></span><div class="cf">
+<p>I love this story</p>
+</div>
+<p><span class="clr-green"> Harry</span> —
+April 10, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-happy"></span><div class="cf">
+<p>I love this story<br>
+This is the best story!<br>
+So lovely.</p>
+</div>
+<p><span class="clr-green"> Anonymous</span> —
+April 14, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-cool"></span><div class="cf">
+<p>very good story</p>
+</div>
+<p><span class="clr-green"> Anonymous</span> —
+April 15, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-cool"></span><div class="cf">
+<p>I LOVE cats and plus I got a cat!</p>
+</div>
+<p><span class="clr-green"> Chloe!!!!</span> —
+April 16, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-cool2"></span><div class="cf">
+<p>I LOVE this story so much!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!</p>
+</div>
+<p><span class="clr-green"> Anonymous</span> —
+April 16, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-wink"></span><div class="cf">
+<p>I LOVE cats so much and plus I got a cat.</p>
+</div>
+<p><span class="clr-green"> Anonymous</span> —
+April 16, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-smiley"></span><div class="cf">
+<p>C<br>
+A<br>
+T<br>
+S</p>
+<p> CATS ARE COOL!</p>
+</div>
+<p><span class="clr-green"> Anonymous</span> —
+April 16, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-cool"></span><div class="cf">
+<p>C C.A.T.S<br>
+A M.E.O.W<br>
+T CATS<br>
+S </p>
+</div>
+<p><span class="clr-green"> Becky</span> —
+April 16, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-happy2"></span><div class="cf">
+<p>cccccccccccccccccccccccccccccccccccccccccaaaaaaaaaaaaaaaaaaaaaaaatttttttttttttttttttttssssssss</p>
+</div>
+<p><span class="clr-green"> Anonymous</span> —
+April 16, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-smiley"></span><div class="cf">
+<p>Thank you I enjoyed this very much. Lizzie is so sweet I want to be like her 😍😍😍</p>
+</div>
+<p><span class="clr-green"> Joanna</span> —
+April 16, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-cool"></span><div class="cf">
+<p>MEOW! </p>
+<p> MEOW!<br>
+MEOW!<br>
+MEOW!<br>
+MEOW!<br>
+MEOW!<br>
+MEOW!<br>
+MEOW!</p>
+</div>
+<p><span class="clr-green"> Chloe!!!!</span> —
+April 16, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-happy2"></span><div class="cf">
+<p>Well I loved it. Very nice job you did </p>
+</div>
+<p><span class="clr-green"> Yusaf</span> —
+April 16, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-cool"></span><div class="cf">
+<p>I love this story so much that I like cats too ava!</p>
+</div>
+<p><span class="clr-green"> Chloe!!!!</span> —
+April 16, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-happy"></span><div class="cf">
+<p>I love this story</p>
+</div>
+<p><span class="clr-green"> Chloe!!!!</span> —
+April 16, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-smiley"></span><div class="cf">
+<p>I LOVE CATS AND WELL……….C ARE CUTE!<br>
+A<br>
+T<br>
+S</p>
+</div>
+<p><span class="clr-green"> Chloe!!!!</span> —
+April 16, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-cool2"></span><div class="cf">
+<p>Beautiful story </p>
+</div>
+<p><span class="clr-green"> Anonymous</span> —
+April 16, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-wink"></span><div class="cf">
+<p>Super</p>
+</div>
+<p><span class="clr-green"> Anonymous</span> —
+April 16, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-smiley"></span><div class="cf">
+<p>😎 great Jana </p>
+</div>
+<p><span class="clr-green"> Anonymous</span> —
+April 16, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-cool2"></span><div class="cf">
+<p>cats rule </p>
+</div>
+<p><span class="clr-green"> Emma</span> —
+April 16, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-cool"></span><div class="cf">
+<p>I love this story so much that it is my favorite now!</p>
+</div>
+<p><span class="clr-green"> Bella</span> —
+April 16, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-cool2"></span><div class="cf">
+<p>I got a cat!</p>
+</div>
+<p><span class="clr-green"> Anonymous</span> —
+April 16, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-wink"></span><div class="cf">
+<p>everyone should like cats!</p>
+</div>
+<p><span class="clr-green"> Chloe!!!!</span> —
+April 16, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-happy2"></span><div class="cf">
+<p>c<br>
+a<br>
+t<br>
+s</p>
+<p>a<br>
+r<br>
+e</p>
+<p>C<br>
+O<br>
+O<br>
+L<br>
+!</p>
+</div>
+<p><span class="clr-green"> Chloe!!!!</span> —
+April 16, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-happy"></span><div class="cf">
+<p>OK</p>
+</div>
+<p><span class="clr-green"> Anonymous</span> —
+April 16, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-cool"></span><div class="cf">
+<p>Awesome 😁</p>
+</div>
+<p><span class="clr-green"> Anonymous</span> —
+April 16, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-smiley"></span><div class="cf">
+<p>Very good story</p>
+</div>
+<p><span class="clr-green"> Anonymous</span> —
+April 16, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-cool"></span><div class="cf">
+<p>I love this story so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so,so MUCH!</p>
+<p> THIS STORY IS MY FAV!</p>
+</div>
+<p><span class="clr-green"> Chloe!!!!</span> —
+April 16, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-smiley"></span><div class="cf">
+<p>This was a great story that I will probably remember</p>
+</div>
+<p><span class="clr-green"> Isabel</span> —
+April 16, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-cool"></span><div class="cf">
+<p>I love this story so much! I expected not to like it but I was shocked at how good it was.</p>
+</div>
+<p><span class="clr-green"> Alejandrina</span> —
+April 16, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-cool2"></span><div class="cf">
+<p>Wow! That story was amazing, it was really long but I enjoyed every minute of it.😀the pictures and the voices were really good! I have read all of the storynory books and that was my favorite one</p>
+</div>
+<p><span class="clr-green"> Maggie</span> —
+April 17, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-happy"></span><div class="cf">
+<p>that was a beutiful story, Bertie! wonderful job at editing! thank you!</p>
+</div>
+<p><span class="clr-green"> Ruby</span> —
+April 17, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-happy2"></span><div class="cf">
+<p>Well played, the acting was so good Richard and Jana. Very amusing and fun 👌🏼</p>
+</div>
+<p><span class="clr-green"> Josey</span> —
+April 18, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-smiley"></span><div class="cf">
+<p>Please bring part two sooooooon janna and Bertie 😁😁 I love the cat sounds too meowww</p>
+</div>
+<p><span class="clr-green"> Josey</span> —
+April 18, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-cool2"></span><div class="cf">
+<p>Yes it’s very good</p>
+</div>
+<p><span class="clr-green"> Kylie</span> —
+April 20, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-cool2"></span><div class="cf">
+<p>love it</p>
+</div>
+<p><span class="clr-green"> lolu</span> —
+April 20, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-happy2"></span><div class="cf">
+<p>Yes very good</p>
+</div>
+<p><span class="clr-green"> Kylie</span> —
+April 20, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-cool"></span><div class="cf">
+<p>😻😻😻😻😻😻😻😻😻😻😻😻😻😻😻😻😻😻😻😻😻😻😻😻😻😻😻😻😻😻😻😻😻😻🤯🤯🤯🤯🤯 I love this story.🤯🤯🤯🤯🤯🤯🤯🤯🤯🤯!!!!!!!!!!!!!!!</p>
+</div>
+<p><span class="clr-green"> Quintyn</span> —
+April 21, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-cool"></span><div class="cf">
+<p>I really enjoyed this one!</p>
+</div>
+<p><span class="clr-green"> Virginia</span> —
+April 21, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-cool2"></span><div class="cf">
+<p>You’re awesome Jana! We love your voices. More like this please 🤟🏼👍🏽🙌🏼🙌🏼🙌🏼</p>
+</div>
+<p><span class="clr-green"> Lydia and Johnny</span> —
+April 23, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-smiley"></span><div class="cf">
+<p>NOOOOO YOU CANT JUST TAKE OVER WITHOUT DOING NOTHING!!1!!!11!1!!<br>
+haha cat go meow</p>
+</div>
+<p><span class="clr-green"> hgfyigsf</span> —
+April 23, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-happy"></span><div class="cf">
+<p>Too long :\<br>
+But it’s cool</p>
+</div>
+<p><span class="clr-green"> LESSLIE</span> —
+April 23, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-happy"></span><div class="cf">
+<p>I love it and your awesome janna I have a cat named sally</p>
+</div>
+<p><span class="clr-green"> Briony</span> —
+April 23, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-wink"></span><div class="cf">
+<p>Thanks Bertie,Jana and Richard. Can you make more cat stories like this? Bye the way I love your voices and your play. Wicked sound affects y”all 👍🏻😸😼😻🤘🏻👌🏻👏🏻</p>
+</div>
+<p><span class="clr-green"> Chase</span> —
+April 23, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-cool2"></span><div class="cf">
+<p>Cute story and your voice sounds great Jana 👏🏻👏🏻👏🏻 can you tell more stories please</p>
+</div>
+<p><span class="clr-green"> Hiñary</span> —
+April 28, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-happy"></span><div class="cf">
+<p>I’m very impressed Richard and Jana great combo. Keep it up 👍🏼🤟🏼</p>
+</div>
+<p><span class="clr-green"> Leanord</span> —
+April 29, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<img class="left box-tiny box-flush-left" "="" src="data:image/webp;base64,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" data-pagespeed-url-hash="4290947782" onload="pagespeed.CriticalImages.checkImageForCriticality(this);" style=""><div class="cf">
+<p>Thank you Leonard ☺️</p>
+</div>
+<p><span class="clr-green"> Jana Elizabeth</span> —
+April 29, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-happy"></span><div class="cf">
+<p>so cute I love it</p>
+</div>
+<p><span class="clr-green"> Anonymous</span> —
+May 1, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-happy"></span><div class="cf">
+<p>waaaaw</p>
+</div>
+<p><span class="clr-green"> Anonymous</span> —
+May 1, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom ">
+<span class="img icon left icon-comment icon-happy2"></span><div class="cf">
+<p>The story is so cool =) I’m going to suggest this book to my friends, family and enemies I loved this book is my second favorite book ,more books like this</p>
+</div>
+<p><span class="clr-green"> Read books cools</span> —
+May 8, 2020
+</p>
+</li>
+<li class=" cf  comment box-mini-top-bottom  alt">
+<span class="img icon left icon-comment icon-cool2"></span><div class="cf">
+<p>I</p>
+<p>L<br>
+O<br>
+V<br>
+E</p>
+<p>C<br>
+A<br>
+T<br>
+S</p>
+<p>T<br>
+H<br>
+E</p>
+<p>C<br>
+A<br>
+T<br>
+S</p>
+<p>A<br>
+R<br>
+E</p>
+<p>T<br>
+H<br>
+E</p>
+<p>B<br>
+E<br>
+S<br>
+T</p>
+</div>
+<p><span class="clr-green"> Read books cools</span> —
+May 8, 2020
+</p>
+</li>
+<span id="ezoic-pub-ad-placeholder-661" class="ezoic-adpicker-ad" data-ezadpicker="661" data-ez-position-type="bottom_of_page"></span><span style="display:block !important;float:none;margin-bottom:20px !important;margin-left:0px !important;margin-right:0px !important;margin-top:20px !important;min-height:250px;text-align:center !important;" class="ezoic-ad medrectangle-1 adtester-container adtester-container-661" data-ez-name="storynory_com-medrectangle-1"><span id="div-gpt-ad-storynory_com-medrectangle-1-0" ezaw="300" ezah="250" style="position:relative;z-index:0;display:inline-block;min-height:250px;min-width:300px;" class="ezoic-ad ezoic-adl"><script data-ezscrex="false" data-cfasync="false" type="text/javascript" style="display:none;">eval(ez_write_tag([[300,250],'storynory_com-medrectangle-1','ezslot_35',661,'0','0']));</script></span></span></ul>
+</div>
+</div>
+<div class="page bk-blue ov-hidden">
+<footer class="footer small box-tiny bk-blue clr-white page center"><span id="ezoic-pub-ad-placeholder-668" class="ezoic-adpicker-ad" data-ezadpicker="668" data-ez-position-type="bottom_of_page"></span>
+<p>Storynory Ltd, 26 Star Street, London UK. +44 (0) 7941 190 740. Main point of contact - bertie@storynory.com.</p><p>
+</p><p>Audio and texts are Copyright Storynory Ltd unless otherwise stated. Images are copyrighted to their owners. Many images on this site are licenced from Shutterstock.</p>
+<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我们的条款和条件使学校可以轻松地免费使用我们的材料，请参阅我们的广告</font></font><a href="/about-storynory/copyright/" class="yel"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">文案页面</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以了解详细信息</font></font></p>
+<p><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">您可以在此处查看我们的隐私政策</font></font><a href="/about-storynory/privacy/" class="yel"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">隐私页面</font></font></a></p>
+<script type="text/javascript" src="https://www.storynory.com/wp-includes/js/wp-embed.min.js?ver=5.2.1"></script>
+</footer>
+</div>
+<script src="/wp-content/themes/story8/public/js/main6.js+cookie-imp.js.pagespeed.jc.lIiqpk8iZU.js"></script><script>eval(mod_pagespeed_I4UpLW138Y);</script>
+<script>eval(mod_pagespeed_yDRWm8HuKC);</script>
+</div>
+
+<div class="ezmob-footer ezoic-floating-bottom ezo_ad ezmob-footer-mobile" id="ezmobfooter"><center><span id="ezoic-pub-ad-placeholder-101"></span>
+
+<div class="ezmob-footer ezoic-floating-bottom ezo_ad ezmob-footer-mobile" id="ezmobfooter"><center><span style="display:inline-block;float:none;margin-bottom:1px !important;margin-left:0px !important;margin-right:0px !important;margin-top:1px !important;min-height:100px;" class="ezoic-ad medrectangle-2 adtester-container adtester-container-101" data-ez-name="storynory_com-medrectangle-2"><span id="div-gpt-ad-storynory_com-medrectangle-2-0" ezaw="320" ezah="100" style="position:relative;z-index:0;display:inline-block;min-height:100px;min-width:320px;" class="ezoic-ad ezoic-adl"><script data-ezscrex="false" data-cfasync="false" type="text/javascript" style="display:none;">eval(ez_write_tag([[320,100],'storynory_com-medrectangle-2','ezslot_1',101,'0','0']));</script></span></span></center><span class="ezmob-footer-close-mobile" onclick="document.getElementById('ezmobfooter').style.display='none';"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">X</font></font></span></div>
+
+</center><span class="ezmob-footer-close-mobile" onclick="document.getElementById('ezmobfooter').style.display='none';"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">X</font></font></span></div>
+
+<script type="text/javascript">
+				var __inScopeForCCPA = false;
+		function __uspapi(command, version, callback) {
+			var response = null;
+			var successs = false;
+			if (command === "getUSPData" && version === 1) {
+				var uspString = "1"; // Version
+				if (__inScopeForCCPA) {
+					uspString += "N"; // Has Explicit Notice for Opt Out been provided (ex footer or minor consent modal)
+					var result;
+					var consentCookie = (result = new RegExp('(?:^|; )ezoccpaconsent=([^;]*)').exec(document.cookie)) ? (result[1]) : null;
+					if (consentCookie === "nonconsent") {
+						uspString += "N";
+					}
+					else {
+						uspString += "Y";
+					}
+					uspString += "N" // Is pub a signatory to the IAB Limited Service Provider Agreement (http://www.iabprivacy.com/)
+				}
+				else {
+					uspString += "---";
+				}
+				response = {
+					uspString: uspString,
+					version: 1
+				};
+				success = true;
+			}
+			return callback(response, success);
+		};
+		function __receiveUspapiMessage(event) {
+			if (event.data.hasOwnProperty('__uspapiCall')) {
+				__uspapi('getUSPData', 1, (uspData, success) => {
+					event.source.postMessage({
+						__uspapiReturn: {
+							returnValue: uspData,
+							success: success,
+							callId: event.data.__uspapiCall.callId
+						}
+					},
+					event.origin);
+				});
+			}
+			return null;
+		};
+		window.addEventListener("message", __receiveUspapiMessage, false);
+</script>
+<script type="text/javascript" style="display:none;" async="">__ez.queue.addFile('anchorfix.js', '/ezoic/anchorfix.js?cb=188-0', false, [], true, true, true, false);</script>
+<script type="text/javascript">
+		(function(f,a){function g(b,a,c){b.addEventListener?b.addEventListener(a,c):b.attachEvent("on"+a,function(){c.call(b)})}function k(b){b&&("string"==typeof b["class"]&&b["class"]&&a.getElementById("uglipop_popbox").setAttribute("class",b["class"]),b.keepLayout&&!b["class"]&&a.getElementById("uglipop_popbox").setAttribute("style","position:relative;height:300px;width:300px;background-color:white;opacity:1;"),"string"==typeof b.content&&b.content&&"html"==b.source&&(a.getElementById("uglipop_popbox").innerHTML=b.content),"string"==typeof b.content&&b.content&&"div"==b.source&&(a.getElementById("uglipop_popbox").innerHTML=a.getElementById(b.content).innerHTML));a.getElementById("uglipop_overlay_wrapper").style.display="";a.getElementById("uglipop_overlay").style.display="";a.getElementById("uglipop_content_fixed").style.display=""}function h(){a.getElementById("uglipop_overlay_wrapper").style.display="none";a.getElementById("uglipop_overlay").style.display="none";a.getElementById("uglipop_content_fixed").style.display="none"}g(a,"DOMContentLoaded",function(){var b=a.createElement("div"),e=a.createElement("div"),c=a.createElement("div"),d=a.createElement("div");e.id="uglipop_content_fixed";e.setAttribute("style","position:fixed;top: 50%;left: 50%;transform: translate(-50%, -50%);-webkit-transform: translate(-50%, -50%);-ms-transform: translate(-50%, -50%);opacity:1;z-index:10000000;");c.id="uglipop_popbox";d.id="uglipop_overlay_wrapper";d.setAttribute("style","position:absolute;top:0;bottom:0;left:0;right:0;display:none");b.id="uglipop_overlay";b.setAttribute("style","position:fixed;top:0;bottom:0;left:0;right:0;opacity:0.3;width:100%;height:100%;background-color:black;");d.appendChild(b);e.appendChild(c);a.body.appendChild(d);a.body.appendChild(e);a.getElementById("uglipop_overlay_wrapper").style.display="none";a.getElementById("uglipop_overlay").style.display="none";a.getElementById("uglipop_content_fixed").style.display="none";d.addEventListener("click",h);g(f,"keydown",function(a){27==a.keyCode&&h()});f.uglipop=k})})(window,document);
+			var ezRBA = (function() {
+			  function init() {
+				var reportAdsBtns = document.querySelectorAll('.ez-report-ad-button');
+				for (var i = 0; i < reportAdsBtns.length; i++) {
+				  reportAdsBtns[i].addEventListener('click', function(e) {
+					var url = '<iframe src="https://ezoic.com/pub/reportads/reportads.html' + e.target.getAttribute('name') + '" width="400" height="500" style="border-radius: 10px; box-shadow: 2px 2px 30px 6px rgba(0,0,0,0.75); border: 1px solid black;"></iframe>'
+					uglipop({
+					  class: 'none',
+					  source: 'html',
+					  content: url,
+					});
+				  });
+				}
+				function bindEvent(element, eventName, eventHandler) {
+					if (element.addEventListener) {
+						element.addEventListener(eventName, eventHandler, false);
+					} else if (element.attachEvent) {
+						element.attachEvent('on' + eventName, eventHandler);
+					}
+				}
+				bindEvent(window, 'message', function(e) {
+					if (e.data === 'close-report-ad-modal') {
+						document.getElementById('uglipop_overlay_wrapper').style.display = 'none';	
+						document.getElementById('uglipop_overlay').style.display = 'none';	
+						document.getElementById('uglipop_content_fixed').style.display = 'none';	
+					}
+				})
+			  }
+
+			  return {
+				init: init
+			  };
+			})();
+			ezRBA.init();
+		</script>
+<script type="text/javascript" data-cfasync="false"></script>
+<script type="text/javascript" style="display:none;">
+var __ez_dims = (function() {
+	var setCookie = function( name, content, expiry ) {
+		return document.cookie = name+'='+content+((expiry)?';expires='+(new Date(Math.floor(new Date().getTime()+expiry*1000)).toUTCString()):'')+';path=/';
+	};
+	var ffid = 2;
+	var oh = window.screen.height;
+	var ow = window.screen.width;
+	var h = ffid === 1 ? oh : (oh > ow) ? oh : ow;
+	var w = ffid === 1 ? ow : (oh > ow) ? ow : oh;
+	var uh = window.innerHeight || document.documentElement.clientHeight || document.getElementsByTagName('body')[0].clientHeight;
+	var uw = window.innerWidth || document.documentElement.clientWidth || document.getElementsByTagName('body')[0].clientWidth;
+	setCookie('ezds', encodeURIComponent('ffid='+ffid+',w='+w+',h='+h), (31536e3*7));
+	setCookie('ezohw', encodeURIComponent('w='+uw+',h='+uh), (31536e3*7));
+})();
+</script><script type="text/javascript" style="display:none;" async="">
+__ez.queue.addFile('edmonton.php', '/detroitchicago/edmonton.webp?a=a&cb=188-0&shcb=32', true, [], true, false, false, false);
+__ez.queue.addFile('jellyfish.php', '/porpoiseant/jellyfish.webp?a=a&cb=188-0&shcb=32', false, [], true, false, false, false);
+</script>
+<script>var _audins_dom="storynory_com",_audins_did=38237;__ez.queue.addDelayFunc("audins.js","__ez.script.add", "//go.ezoic.net/detroitchicago/audins.js?cb=188-0");</script><noscript><div style="display:none;"><img src="//pixel.quantserve.com/pixel/p-31iz6hfFutd16.gif?labels=Domain.storynory_com,DomainId.38237" border="0" height="1" width="1" alt="Quantcast"/></div></noscript><noscript><img src="https://sb.scorecardresearch.com/p?c1=2&c2=20015427&cv=2.0&cj=1"/></noscript>
+<div id="dmo1" style="display: none;"><script>var googleAdClient = "ca-pub-6396844742497208";
+			  window.google_ad_client = googleAdClient;
+			  /* dmo */
+			  window.google_ad_slot = "dmo";
+			  window.google_ad_width = 88;
+			  window.google_ad_height = 31;
+			  (adsbygoogle = window.adsbygoogle || []).push({
+				  google_ad_client: googleAdClient,
+				  enable_page_level_ads: false
+			  });</script><script src="//pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript"></script></div><div id="uglipop_overlay_wrapper" style="position:absolute;top:0;bottom:0;left:0;right:0;display:none"><div id="uglipop_overlay" style="position: fixed; top: 0px; bottom: 0px; left: 0px; right: 0px; opacity: 0.3; width: 100%; height: 100%; background-color: black; display: none;"></div></div><div id="goog-gt-tt" class="skiptranslate" dir="ltr"><div style="padding: 8px;"><div><div class="logo"><img src="https://www.gstatic.com/images/branding/product/1x/translate_24dp.png" width="20" height="20" alt="Google 翻译"></div></div></div><div class="top" style="padding: 8px; float: left; width: 100%;"><h1 class="title gray">原文</h1></div><div class="middle" style="padding: 8px;"><div class="original-text"></div></div><div class="bottom" style="padding: 8px;"><div class="activity-links"><span class="activity-link">提供更好的翻译建议</span><span class="activity-link"></span></div><div class="started-activity-container"><hr style="color: #CCC; background-color: #CCC; height: 1px; border: none;"><div class="activity-root"></div></div></div><div class="status-message" style="display: none;"></div></div><div id="uglipop_content_fixed" style="position: fixed; top: 50%; left: 50%; transform: translate(-50%, -50%); opacity: 1; z-index: 10000000; display: none;"><div id="uglipop_popbox"></div></div><div class="goog-te-spinner-pos"><div class="goog-te-spinner-animation"><svg xmlns="http://www.w3.org/2000/svg" class="goog-te-spinner" width="96px" height="96px" viewBox="0 0 66 66"><circle class="goog-te-spinner-path" fill="none" stroke-width="6" stroke-linecap="round" cx="33" cy="33" r="30"></circle></svg></div></div></body>
