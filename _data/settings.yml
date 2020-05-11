@@ -101,10 +101,10 @@ contact: >
 # Work Section
 
 projects:
-- {name: 'Story One', thumb: '0.jpg', file: 'projects/story-0.html'}
-- {name: 'Story Two', thumb: '1.jpg', file: 'projects/story-1.html'}
-- {name: 'Story Three', thumb: '2.jpg', file: 'projects/story-2.html'}
-- {name: 'Story Four', thumb: '3.jpg', file: 'projects/story-3.html'}
+- {name: '蚂蚁和蝈蝈', thumb: '0.jpg', file: 'projects/story-0.html'}
+- {name: '月亮姑娘做衣裳', thumb: '1.jpg', file: 'projects/story-1.html'}
+- {name: '狮子和老鼠', thumb: '2.jpg', file: 'projects/story-2.html'}
+- {name: '牧人和狼', thumb: '3.jpg', file: 'projects/story-3.html'}
 
 #-------------------------------
 # Contact Section

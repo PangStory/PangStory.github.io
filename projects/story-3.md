@@ -1,8 +1,27 @@
 ---
 layout: post
-title: 'Project Four'
+title: '牧人和狼'
 ---
 
-In diam odio, facilisis eu elementum in, sodales ut dolor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean fermentum ante vitae sagittis efficitur. Praesent interdum sagittis porttitor. Duis non hendrerit metus. Nullam bibendum nunc cursus elit cursus ornare. Nulla eget sodales erat. Quisque laoreet nibh eu eleifend vehicula.
+从前,有一个牧人,养了许多羊。附近有一只老狼,三番五次想偷羊吃,可是牧人把羊看得很紧,老狼便无法得手。老狼看着又肥又嫩的羊却吃不到,当然不甘心,于是它想了一个办法。
 
-{% include image.html url="http://www.gratisography.com" image="3.jpg" %}
+这天，牧人又来放羊了,老狼慢慢地靠近羊群它却不扑上去,只是在羊群周围转来转去。牧人觉得很纳闷,心想:老狼这是怎么啦?又在耍什么花招?想到这里,牧人不由得握紧了猎枪,瞪大眼睛监视着老狼。
+
+突然,从羊群的右边又窜出了一只小狼,向羊群直扑过来。牧人正要开枪,却见老狼猛冲上去,截住了小狼,两只狼撕咬着,翻滚着,鲜血四溅,狼毛乱飞。
+
+经过一番激烈的搏斗,小狼被老狼打败夹着尾巴逃跑了。老狼又像牧羊犬一样,在羊群的周围巡逻，牧人很高兴,心想:这只狼和其它狼就是不一样!想着想着,脸上露出了笑容,不由自主地朝老狼招了招手。
+
+老狼看见了,慢慢走了过来,温顺地摇着尾巴,舔舔牧人的手,真像一只温顺的狗，牧人完全相信了它。www.qigushi.com 七故事网
+
+过了两天,牧人有事要进城,于是把羊群交给老狼看护,自己安心地进城去了。
+
+这时,老狼露出了凶恶贪婪[lán]的本来面目,冲向羊群,把羊全都咬死了。
+
+牧人从城里回来,看到满地都是被咬死的羊,老狼早就跑得无影无踪了,他明白了一切,叹了口气,后悔地说:“我真是活该,竟然把羊群交给狼看管,我忘了,狼吃羊的本性是不会改变的啊!”
+
+牧人和狼的寓言故事读后感
+
+牧人和狼的故事告诉我们，坏人终究是坏人，坏人并不是那么容易改变自己的本性，我们不能轻易相信这种人。
+
+
+{% include image.html image="3.jpg" %}

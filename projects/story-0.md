@@ -1,7 +1,45 @@
 ---
 layout: post
-title: 'Project One'
+title: '蚂蚁和蝈蝈'
 ---
-Mauris velit metus, tempor gravida nulla eget, auctor accumsan tellus. Curabitur volutpat sed dolor quis tempus. In scelerisque aliquam felis at tincidunt. Proin non augue fringilla, [pretium justo vitae](#), maximus dui. Nunc ipsum nisi, fermentum sit amet volutpat cursus, sodales ac nisl. Quisque nec tellus sem. Cras pharetra felis non quam mollis, nec efficitur lectus aliquet. Maecenas ipsum felis, eleifend nec [semper venenatis](#), consequat ut nunc. Donec est augue, facilisis quis placerat sed, imperdiet sit amet neque. Maecenas nec risus metus. Nunc non condimentum ipsum. Phasellus consectetur dapibus massa, convallis iaculis nisi vestibulum id. Phasellus et fringilla augue. Donec consequat dui ut rutrum elementum. Aenean nisi arcu, ornare eu lacus vel, faucibus tempor tortor.
+炎热的夏季，太阳无情的放射着万丈光芒，把地面烤得像块滚烫的铁板。
+
+在一条弯曲的小路上，一群蚂蚁正在搬运食物，他们干劲十足，累得满头大汗，也不肯休息。
+
+路边凉爽的树荫里，有一只蝈蝈正在悠然地唱着歌，他看见蚂蚁你这么辛苦，整天忙碌，觉得他们太傻了。
+
+他问道：“你们大热天的，不去休息，不喝水，不唱歌，搬来搬去，要那么多食物干什么呀？”
+
+蚂蚁回答说：“我们在夏季里辛苦劳作，为的是在冬季里有足够的粮食。”
+
+蝈蝈奇怪的说：“冬天的粮食现在就动手准备，太傻了，大热天快休息吧！”
+
+蚂蚁听了很不高兴的说：“春天来了，大雪纷飞，再找食物就来不及了，现在你贪玩，不劳动不做长远打算，就等着冬天挨饿吧！”
+
+说完蚂蚁背起重重的粮食走了，蝈蝈目送着蚂蚁走远，心中嘀咕着，我才不担心呢！
+
+于是，他又继续唱起歌来。
+
+就这样，日子一天一天的过去了。www.qigushi.com儿童故事
+
+冬天来了，小草枯黄，大地一片萧条，一场大雪过后，一片白茫茫的，蝈蝈再也找不到食物了。
+
+一阵寒风吹来，蝈蝈不停地打哆嗦，缩成了一团，他想还是到蚂蚁那儿要点粮食过冬吧！
+
+冰天雪地里，蝈蝈挣扎着来到蚂蚁的家门口，他有气无力的敲着蚂蚁的门，砰！砰！砰！
+
+“救救我吧！蚂蚁大哥，我快要饿死啦！求你们给我一点粮食吧！”
+
+听到蝈蝈哀求的声音，蚂蚁开门出来，看了蝈蝈一眼说：“在夏天，你不准备过冬的粮食，光顾着唱歌，还说我们太傻了，”
+
+蝈蝈哀求说：“是我不好，我光顾玩了，忘了储备粮食。”
+
+蚂蚁冷淡地说：“你现在可以去唱歌啊，不劳动的人永远得不到食物。”
+
+蚂蚁说完关上了大门，蝈蝈只好继续乞讨去了。
+
+【蚂蚁和蝈蝈读后感】
+
+蚂蚁和蝈蝈的故事告诉我们一个道理，这个故事是告诉我们贪图安逸不劳而获是可耻的，只有劳动是最光荣的，也是获取知识和粮食的最好办法。
 
 {% include image.html image="0.jpg" %}

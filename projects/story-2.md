@@ -1,8 +1,20 @@
 ---
 layout: post
-title: 'Project Three'
+title: '狮子和老鼠'
 ---
 
-Donec condimentum a leo nec posuere. Vestibulum faucibus leo nec nisl varius vestibulum. Aenean vel quam semper, vestibulum augue at, rutrum ligula. Ut gravida, ex sit amet fringilla luctus, lorem quam mollis elit, et tristique leo urna non odio. Curabitur elementum viverra consequat. Vestibulum vitae dolor tristique, pellentesque metus non, suscipit nunc. Aenean id sem eu libero sodales dignissim eget quis quam. Phasellus quis lectus ac odio convallis luctus. Praesent sed ligula ipsum. Nullam ultricies nunc nec turpis porttitor elementum. Vestibulum vitae imperdiet elit, nec mattis magna. Vestibulum id neque nec turpis ullamcorper rutrum ac non ligula. Quisque nec pellentesque diam. Vestibulum at aliquam mi, vitae fringilla quam. Suspendisse potenti.
+一个炎热的下午,狮子在窝里睡觉,一只老鼠从它的鼻子上跑过,把它惊醒了。狮子大吼一声,正要用巨大的爪子把老鼠压死,老鼠喊道:“啊,饶了我吧,老爷,我实在不值得被您杀死。我没有冒犯您的意思,而且我一点儿也不好吃。”
 
-{% include image.html url="http://www.gratisography.com" image="2.jpg" %}
+此外老鼠吱吱地说道,“如果您现在饶了我,也许有朝一日我能为您做点儿什么事。”狮子哈哈大笑,但它把爪子抬了起来,老鼠跳出去跑开了。狮子笑着又睡着了。
+
+不久,狮子在林中觅[mì]食,陷进了猎人的罗网。狮子又扭又滚,又抓又咬,但它越挣扎,那张网就把它勒得越紧,不久就动弹不得了。狮子见逃脱无望,怒吼起来,巨大的吼声响彻森林的每一个角落。
+
+那天夜里,老鼠恰好也出来觅食。它当然立即听出了这是狮子的声音,就尽快跑到出事地点。它一眼就看出是怎么回事了,停下来说:“狮子先生,别着急,我很快就能让您出来。请别动。”说着,它开始咬那粗绳。
+
+一会儿工夫,狮子的前爪就自由了;随后,头部和毛发也解放了;接着,后腿也挣脱出来了;最后,尾巴也摆脱了罗网。老鼠救了狮子。
+
+【狮子和老鼠故事读后感】
+
+不要吝啬你的好心去帮助需要的人，也不要看不起他们，也许有一天，当你有困难的时候，便会从他们身上得到意想不到回报。
+
+{% include image.html image="2.jpg" %}
